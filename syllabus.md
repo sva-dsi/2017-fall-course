@@ -1,7 +1,7 @@
 Metrics + Data Visualization I - SVA-DSI
 ========
 
-![gallery](http://i.imgur.com/JgTstrz.png)
+![gallery](imgs/blocks.png)
 
 # SYLLABUS
 
