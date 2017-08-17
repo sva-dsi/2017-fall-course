@@ -111,8 +111,6 @@ Each week you will have readings assigned, accompanied by often (but not always)
 | 13   |  12/07  | **Final Presentations/Final Projects Due** |  |  |  
 | 14   |  12/14  | PROJECT CLINIC - NO CLASS - APPOINTMENTS WITH AURELIA | | DEMO |
 
-* note: November 08 is Election Day, if you are eligible to vote, I encourage you to do so.
-
 **READINGS**
 
 Readings are assigned to correspond with that week's assignment and class lesson. I'll be lecturing outside the readings with some references to them, and your assignments will allude to them too. Feel free to read ahead to make certain weeks easier. 
@@ -161,7 +159,7 @@ It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatt
 
 Remember, you can view a template of what your assignment format herein this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
 
-## 9/13/16
+## 9/14/17
 
 #### NEW PLATFOR[U]MS: HOSTING FOR INTERACTIVES
 
@@ -219,7 +217,7 @@ Why was the one you chose superior? How? What aspects are more or less compellin
 
 Consider the pieces and work shown by the guest lecturer, highlight some aspect of their work that seemed very difficult to you and find some resources online detailing how you would develop skills to support what you find difficult. Maybe they have to code, maybe they have to write tests or evaluate the user experience of their project, maybe they have to make high quality mockups in Illustrator. Pick something they describe that you don't understand and find ways to learn about it so you might be better prepared to deal with that in the workplace. Then write a paragraph about how you would develop this skill, what resource you would use.
 
-## 9/20/16
+## 9/21/17
 
 #### MARK-UP/DOWN: SELF-PUBLISHING INTERACTIVE PROJECTS
 
@@ -241,7 +239,7 @@ Rachel is an Analytics Engineer at Github.
 
 She'll be talking about how to use Github to publish, host and render your code.
 
-#### READING
+#### READINGS
 * Today's Slides: 
 	* [Web Github](https://auremoser.github.io/web-github/)
 	* [Web HTML](https://auremoser.github.io/web-html/#/)
@@ -282,7 +280,7 @@ Consider the readings an try to incorporate some of the readings' content into y
 
 BONUS: link to your first bl.ock (see `practice` above). Write a sentence or two about how you might incorporate blocks into a larger narrative, or an interactive piece.
 
-## 9/27/16
+## 9/28/17
 
 #### DATA-DRIVEN DEVELOPMENT
 
@@ -331,7 +329,7 @@ The following are mostly for coding practice, feel free to use them to keep up w
 * Twigg, C., [_Data communicators: where is innovation happening_](http://storiesthroughdata.blogs.lincoln.ac.uk/).
 
 #### PRACTICE
-In prep for our study of maps and extra-journalism interactive platforms, evaluate the utility and validity of [Pattrn's projects](http://pattrn.co/), including [The Gaza Platform](https://gazaplatform.amnesty.org/), a partnership with Amnesty Intl. Another resource that might be helpful for dissecting visualizations is [Source](https://source.opennews.org/), a blog that dissects a lot of interactives for journalism articles, like this one on the Chicago [Police corruption investigation](https://source.opennews.org/en-US/articles/how-we-made-homan-square-portrait/).
+In prep for our study of maps and extra-journalism interactive platforms, evaluate the utility and validity of [Pattrn's projects](http://pattrn.co/), including [The Gaza Platform](https://gazaplatform.amnesty.org/), a partnership with Amnesty Intl. Another resource that might be helpful for unpacking visualizations is [Source](https://source.opennews.org/), a blog that dissects a lot of interactives for journalism articles, like this one on the Chicago [Police corruption investigation](https://source.opennews.org/en-US/articles/how-we-made-homan-square-portrait/).
 
 For coding practice, take a look at the [Completed](https://github.com/auremoser/web-html/tree/master/practice/completed) vs [Practice](https://github.com/auremoser/web-html/tree/master/practice/practice) files in this week's slides, and try to identify some differences that contribute to how different the visualizations look. Hint: look at the "stylesheets" or CSS files to see how they are different.
 
@@ -350,7 +348,7 @@ Try to find one or two datasets that suit a narrative or argument you'd like to 
 
 Link to the datasets if they are available online, if not, explain how you intend to get those data over the course of the next few weeks.
 
-## 10/04/16
+## 10/05/17
 
 #### INTRO TO CREATIVE CODE + VISUALIZATIONS
 
@@ -410,7 +408,55 @@ List your "3 things" in a gist, as you do each week for your assignments.
 Try using [these practice files](http://bl.ocks.org/auremoser/2302e34cf80b55123564f96c351a3146), and modifying them to create your own visualization with [RAW](http://app.raw.densitydesign.org/). Attach those files (index.html, and styles, if any) to your gist.
 
 
-## 10/11/16
+## 10/12/17
+
+#### STATISTICS AND TIME-SERIES INTERACTIVES
+
+> "In short, we're tasked with transforming data into directives. Good analysis parses numerical outputs into an understanding of the organization. We "humanize" the data by turning raw numbers into a story about our performance." ~ J. Bladt + B. Filbin
+
+This week continues our visualization series, we'll be exploring data sets for time-series interactives and statistical charts/graphs. We'll also feature a guest talk from Ekene Ijeoma.
+
+
+![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
+
+**Interactive to Inspire**: 
+
+* Reuters Graphics, [_Journalism Deaths_](http://graphics.thomsonreuters.com/14/journalist-deaths/index.html).
+
+#### [Ekene Ijeoma](http://ekeneijeoma.com/), New INC.
+
+Ekene Ijeoma is a designer and artist based at Orbital. He was recently awarded NYFA Fellowship in Design, Urban Environments and Architecture and featured in Adweek's Creative 100 as 1 of the 10 "visual artists whose imagination and intellect will inspire you" and Good Magazine's Good 100 for "tackling pressing global issues". He'll give a talk on his work.
+
+He's worked on interactive projects like:
+
+* [_Look Up_](http://look-up.nyc/)
+* [_Wage Islands_](https://vimeo.com/138549946)
+* [_The Refugee Project_](http://www.therefugeeproject.org/)
+
+#### READINGS:
+* Today's Slides: 
+	* [Time Series Workshop](https://gist.github.com/auremoser/5d47641f386d4f2662f28b1a9d9583f4)
+	* [Web JS](https://auremoser.github.io/web-intro-js/class1.html#/)
+* Bladt, J. and B. Filbin, [_Data Scientists' real job: storytelling_](https://hbr.org/2013/03/a-data-scientists-real-job-sto).
+* Carr, D., [_At the front lines, bearing witness in real time_](http://www.nytimes.com/2014/07/28/business/media/at-front-lines-bearing-witness-in-real-time.html?module=Search&mabReward=relbias%3Ar%2C%7B%221%22%3A%22RI%3A8%22%7D).
+* Dubakov, M., [_Visual Encoding_](http://www.targetprocess.com/articles/visual-encoding.html).
+* LaFleur, J., [_Guide to bulletproofing your data_](https://github.com/propublica/guides/blob/master/data-bulletproofing.md).
+
+#### PRACTICE
+[C3.JS](http://c3js.org/) is a reusable chart library based on D3. Take a look at [the code for this Timeseries Chart](http://c3js.org/samples/timeseries.html) and think about how you could modify it to accommodate data of your choice.
+
+Try to do that and integrate your practice into the assignment below (add it to you bl.ocks account if you can!).
+
+Here is [an example using C3.JS for a time-series line chart](http://bl.ocks.org/auremoser/0d84614ac07aaa47e803). If you feel like this is more relevant to your dataset, you can use that template too.
+
+#### ASSIGNMENT
+1. Find some time-series or statistical data. 
+2. Think about the narrative that you might build around it. 
+3. Write a pitch (< 3 ¶s) explaining your story and linking to the data. 
+4. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
+5. Use your practice exercise to defend your pitch with a prototype.
+
+## 10/19/17
 
 #### (COUNTER)MAPS AND CARTOGRAPHICS
 
@@ -477,55 +523,7 @@ If that seems overwhelming, try to follow these tutorials instead:
 5. Use your practice exercise to defend your pitch with a prototype.
 
 
-## 10/18/16
-
-#### STATISTICS AND TIME-SERIES INTERACTIVES
-
-> "In short, we're tasked with transforming data into directives. Good analysis parses numerical outputs into an understanding of the organization. We "humanize" the data by turning raw numbers into a story about our performance." ~ J. Bladt + B. Filbin
-
-This week continues our visualization series, we'll be exploring data sets for time-series interactives and statistical charts/graphs. We'll also feature a guest talk from Ekene Ijeoma.
-
-
-![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
-
-**Interactive to Inspire**: 
-
-* Reuters Graphics, [_Journalism Deaths_](http://graphics.thomsonreuters.com/14/journalist-deaths/index.html).
-
-#### [Ekene Ijeoma](http://ekeneijeoma.com/), New INC.
-
-Ekene Ijeoma is a designer and artist based at Orbital. He was recently awarded NYFA Fellowship in Design, Urban Environments and Architecture and featured in Adweek's Creative 100 as 1 of the 10 "visual artists whose imagination and intellect will inspire you" and Good Magazine's Good 100 for "tackling pressing global issues". He'll give a talk on his work.
-
-He's worked on interactive projects like:
-
-* [_Look Up_](http://look-up.nyc/)
-* [_Wage Islands_](https://vimeo.com/138549946)
-* [_The Refugee Project_](http://www.therefugeeproject.org/)
-
-#### READINGS:
-* Today's Slides: 
-	* [Time Series Workshop](https://gist.github.com/auremoser/5d47641f386d4f2662f28b1a9d9583f4)
-	* [Web JS](https://auremoser.github.io/web-intro-js/class1.html#/)
-* Bladt, J. and B. Filbin, [_Data Scientists' real job: storytelling_](https://hbr.org/2013/03/a-data-scientists-real-job-sto).
-* Carr, D., [_At the front lines, bearing witness in real time_](http://www.nytimes.com/2014/07/28/business/media/at-front-lines-bearing-witness-in-real-time.html?module=Search&mabReward=relbias%3Ar%2C%7B%221%22%3A%22RI%3A8%22%7D).
-* Dubakov, M., [_Visual Encoding_](http://www.targetprocess.com/articles/visual-encoding.html).
-* LaFleur, J., [_Guide to bulletproofing your data_](https://github.com/propublica/guides/blob/master/data-bulletproofing.md).
-
-#### PRACTICE
-[C3.JS](http://c3js.org/) is a reusable chart library based on D3. Take a look at [the code for this Timeseries Chart](http://c3js.org/samples/timeseries.html) and think about how you could modify it to accommodate data of your choice.
-
-Try to do that and integrate your practice into the assignment below (add it to you bl.ocks account if you can!).
-
-Here is [an example using C3.JS for a time-series line chart](http://bl.ocks.org/auremoser/0d84614ac07aaa47e803). If you feel like this is more relevant to your dataset, you can use that template too.
-
-#### ASSIGNMENT
-1. Find some time-series or statistical data. 
-2. Think about the narrative that you might build around it. 
-3. Write a pitch (< 3 ¶s) explaining your story and linking to the data. 
-4. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
-5. Use your practice exercise to defend your pitch with a prototype.
-
-## 10/25/16
+## 10/26/17
 #### NETWORK AND GRAPH VISUALIZATIONS
 
 This week we'll consider visualizations that illustrate spatial relationships between data points (nodes) via (edges). We'll play with a few tools and explore graph data or relationships worth teasing out of your chosen datasets. We'll feature a guest talk from Francis Tseng as well.
@@ -570,7 +568,7 @@ Try to build a prototype with one of these libraries/tools to support your assig
 
 Alternatively, for your assignment, you can try to make a Graph Visualization with sample data (say from Sigma.js's examples page, or from another graph example/library), or follow the [following tutorial](http://thinkingonthinking.com/Getting-Started-With-D3/), take notes on your experience and screenshots of your work along the way.
 
-## 11/01/16
+## 11/02/17
 #### COLOR THEORY: ART, DESIGN, + PERCEPTION
 >"It’s not uncommon for designers to confuse a beautiful looking product with one that works beautifully. A great technique for creating smarter, better products is to approach them using story-centered design." ~ B. Kowitz
 
@@ -607,7 +605,7 @@ It doesn't have to be as detailed as [this one](http://design.sunlightlabs.com/p
 * Description of the dataset(s)
 * Description of the concept and larger narrative - what aspects of your data will this style highlight?
 
-## 11/08/16
+## 11/09/17
 #### CHOOSING AN INTERACTIVE
 
 Choosing a way to display your data is a non-trivial operation, and using the past few weeks' study of a few general visualization types, we'll discuss what combination of visual data diagrams best suit the data we've groomed for our final projects. We'll also go over some of the tools for rendering those data as such.
@@ -639,7 +637,7 @@ Diagram (aka, discuss in one ¶) what type of visualization you choose for your 
 Keep in mind how this changes or updates your style guide from last week; update that assignment where necessary; and link to the style guide at the end of your proposal.
 
 
-## 11/15/16
+## 11/16/17
 #### CREATIVE NARRATIVE
 
 >"And I want you to ask yourself when you make things, when you prototype interactions, 'am I thinking about my own clock, or the user’s?' Am I going to help someone make order in his or her life, or am I going to send that person to a commune in Vermont?" ~ P. Ford
@@ -682,7 +680,7 @@ Here are some resources to help you get it on the web.
 
 Here is [an example of an interactive time series visualization](http://auremoser.github.io/graphitiTime/) of Graffiti cleanup rates (taken from 311 data). Here is [the code and readme](https://github.com/auremoser/graphitiTime/) explaining how this was made. This will be the format of your final projects (unless you choose a more creative way of hosting it). All of your code will be submitted on github with at least a link to the live demo in the `README.md` of your repository.
 
-### 11/22/16
+### 11/23/17
 #### UNDERSTANDING IMPACT + ADDRESSING BIAS
 
 >"I realize there’s a whole lot of inspiration out there, and some damn fine examples of great work, but I still find it hard to get a sense of direction...We need to know what makes a data story “work”. And what does a data story that “works” even mean?" ~ N. Diakopoulos
@@ -725,7 +723,7 @@ This week we'll go over how to process reactions to your work, and how to bullet
 #### ASSIGNMENT
 Continue with last week's assignment, work on publishing your project on github, posting the interactive on `gh-pages`, and explaining your process, sources, and reasoning in your README.md.
 
-## 11/29/16
+## 11/30/17
 #### THE FUTURE OF MEDIA + FINAL PROJECTS
 
 > "I realize the instant communication platforms we enjoy now do have some negatives that are troubling." ~ J. Spann
@@ -771,7 +769,35 @@ Continue with working on your final projects, you can make something from [this 
 	* **Demo Link**
 	* **Project Procedure**: describe your data processing, visualization selection, and analysis post-visualization
 	
-## 12/06/16
+## 12/07/17
+
+#### PRESENTATIONS AND DEMOS
+
+
+![](https://raw.githubusercontent.com/sva-dsi/2016-fall-course/master/imgs/babel.png)
+
+[Library of Babel Bot](https://libraryofbabel.info/).
+
+* Learn More:
+	* [Bibliography](https://github.com/sva-dsi/2016-fall-course/blob/master/bibliography.md)
+	* Designing visual languages: [Tangram Tron](https://mapzen.com/blog/tron-v2-visual-scale/)
+	* Dealing with Data: [Missing Datasets](https://github.com/MimiOnuoha/missing-datasets)
+	* Using platforms and media: [Census Americans](https://twitter.com/censusAmericans)
+		* [Cheap Bots Done Quick](http://cheapbotsdonequick.com/)
+
+
+#### FINAL PROJECTS
+**DUE**: 12/14/17 9AM, in my inbox. 
+
+Please send the link to your project repository and any supportive materials to my email <amoser2@sva.edu>.
+
+Final Project Guide: <https://gist.github.com/auremoser/6cdf8d61bb3bcbba7606>
+
+We will spend the first minutes of class going over your project pitches, please send me your current assignment/latest project draft **before** class, and prepare a 3-5 minute presentation of your project, describing why you chose it, what resulted from your efforts and what you would like to do with the project moving forward.
+
+But in general, this project is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 21st); ie. no late grades accepted.
+
+## 12/14/17
 
 #### PROJECT CLINIC
 
@@ -792,33 +818,6 @@ This meeting will go over:
 
 #### READING
 * Ford, P., [_What is Code?_](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/).
-
-#### FINAL PROJECTS
-**DUE**: 12/13/16 9AM, in my inbox. 
-
-Please send the link to your project repository and any supportive materials to my email <amoser2@sva.edu>.
-
-Final Project Guide: <https://gist.github.com/auremoser/6cdf8d61bb3bcbba7606>
-
-We will spend the first minutes of class going over your project pitches, please send me your current assignment/latest project draft **before** class, and prepare a 3-5 minute presentation of your project, describing why you chose it, what resulted from your efforts and what you would like to do with the project moving forward.
-
-But in general, this project is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 21st); ie. no late grades accepted.
-
-## 12/13/16
-
-#### PRESENTATIONS AND DEMOS
-
-
-![](https://raw.githubusercontent.com/sva-dsi/2016-fall-course/master/imgs/babel.png)
-
-[Library of Babel Bot](https://libraryofbabel.info/).
-
-* Learn More:
-	* [Bibliography](https://github.com/sva-dsi/2016-fall-course/blob/master/bibliography.md)
-	* Designing visual languages: [Tangram Tron](https://mapzen.com/blog/tron-v2-visual-scale/)
-	* Dealing with Data: [Missing Datasets](https://github.com/MimiOnuoha/missing-datasets)
-	* Using platforms and media: [Census Americans](https://twitter.com/censusAmericans)
-		* [Cheap Bots Done Quick](http://cheapbotsdonequick.com/)
 
 ![certificate](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/certificate.png)
 
