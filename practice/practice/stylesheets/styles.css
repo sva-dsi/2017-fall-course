@@ -1,0 +1,200 @@
+/* General Styles */
+body {
+  background-color: rgb(241, 241, 241);
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.2em;
+  margin: 0px auto;
+  min-width: 960px;
+  width: 100%;
+}
+
+p {
+  margin: 1em;
+}
+
+a {
+  color: #1D766F;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2.2em;
+  float: left;
+  line-height: 75px;
+}
+
+h2 {
+  background-color: rgb(60, 60, 60);
+  color: #FFF;
+  font-size: 2.4em;
+  font-weight: 400;
+  line-height: 80px;
+  margin: 0 0 0.5em 0;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.4em;
+  font-weight: 700;
+  margin: 0 0 0.3em 0;
+  text-align: center;
+}
+
+h4 {
+  color: rgb(120, 120, 120);
+  font-size: 1em;
+  text-align: center;
+}
+
+/* Navigation */
+.nav li {
+  float: left;
+}
+.nav li a {
+  color: #fff;
+  margin: 0 10px;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+.jump {
+  color: #565656;
+  font-size: 70px;
+  line-height: 80px;
+  position: absolute;
+  text-decoration: none;
+  top: 0;
+}
+.jump.up {
+  left: 15px;
+}
+.jump.down {
+  right: 15px;
+}
+
+
+/* Header */
+#header {
+  background-color: #009D92;
+  padding: 10px;
+}
+#header h1 {
+  color: #FFEECC;
+  background: url('../images/icons/it.png') no-repeat 0 50%;
+  padding-left: 40px;
+}
+#header .nav {
+  float: right;
+  font-size: 1.2em;
+  margin-left: 20px;
+}
+#header .nav li {
+  line-height: 75px;
+}
+
+#header:after {
+  /* clearfix hack */
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+/* Main */
+#main div {
+  margin-bottom: 1em;
+  position: relative;
+}
+#main div.wrapper{
+    width: 100%;
+    max-width:1400px;
+    margin: 0 auto;
+}
+
+#main section:after {
+  /* clearfix hack */
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+/* Famous Women */
+#famous div.woman {
+  background-color: white;
+  float: left;
+  min-height: 250px;
+  margin: 1%;
+  padding: 2%;
+  width: 27.33%;
+}
+
+#famous div.break {
+  clear: both;
+}
+
+#famous div img {
+  display: block;
+  margin: 1em auto;
+  width: 100%;
+}
+
+
+/* Organizations */
+#organizations {
+  clear: both;
+}
+
+#organizations ul {
+  margin: 50px;
+  position: relative;
+}
+#organizations ul li {
+  font-size: 1.2em;
+  line-height: 1.3em;
+  margin-bottom: 1em;
+  padding-left: 5px;
+  max-width: 50%;
+}
+#organizations img {
+  position: absolute;
+  right: 20px;
+  top: 0;
+  display: none;
+  max-width: 40%;
+}
+#organizations li:hover img {
+  display: block;
+}
+
+/* Fun Facts */
+#facts ul {
+  margin: 50px;
+}
+#facts ul li {
+  font-size: 1.2em;
+  line-height: 1.3em;
+  margin-bottom: 1em;
+  padding-left: 5px;
+}
+
+
+
+/* Footer */
+#footer {
+  background-color: #00665F;
+}
+
+#footer .nav {
+  float: left;
+  font-size: 1.1em;
+  margin: 10px;
+}
+
+#footer:after {
+  /* clearfix hack */
+  content: "";
+  display: table;
+  clear: both;
+}
