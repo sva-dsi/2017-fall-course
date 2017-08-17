@@ -1,7 +1,7 @@
 # 2017-fall-course
 ## Data Visualization
 
-![gallery](http://i.imgur.com/JgTstrz.png)
+![gallery](imgs/blocks.png)
 
 Welcome to the basic course repository for syllabus, slides, materials for Data Visualization Fall 2017, an SVA-DSI course.
 
