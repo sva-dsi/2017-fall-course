@@ -98,18 +98,18 @@ Each week you will have readings assigned, accompanied by often (but not always)
 |  1   |  09/07  | Read the syllabus  | | |
 |  2   |  09/14  | Critique an interactive  | X | GUEST: Nadja Popovich |
 |  3   |  09/21  | Comparing interactives  | X | GUEST: Rachel Berry |
-|  4   |  09/28  | Evaluating platforms + Versioning  | X | NO CLASS |
-|  5   |  10/05  | Intro to Creative Code + Visualizations | X | GUEST: Daniel Goddemeyer |
-|  6   |  10/12  | Dataset selection  | X |  |
-|  6   |  10/19  | **Prototype 1**: Time-Series/Stats  | X | GUEST: Francis Tseng |
-|  7   |  10/26  | **Prototype 2**: Mapping  | X | GUEST: Andy Eschbacher |
-|  8   |  11/02  | **Prototype 3**: Graphs  |  | GUEST: Robby Kraft |
-|  9   |  11/09  | Style guide for Final Project  |  | |
-| 10   |  11/16  | **Proposal** for Final Project | X |  |
-| 11   |  11/23  | Template your project  |  | NO CLASS - THANKSGIVING |
-| 12   |  11/30  | Peer review: groom projects with feedback |  | |
-| 13   |  12/07  | **Final Presentations/Final Projects Due** |  |  |  
-| 14   |  12/14  | PROJECT CLINIC - NO CLASS - APPOINTMENTS WITH AURELIA | | DEMO |
+|  4   |  09/28  | Evaluating platforms + Versioning  | X | NO CLASS Caroline? |
+|  5   |  10/05  | Dataset selection | X | GUEST: Daniel Goddemeyer |
+|  6   |  10/12  | Practice HTML/CSS  | X | GUEST: Francis Tseng / Ikene |
+|  7   |  10/19  | **Prototype 1**: Time-Series/Stats  | X | GUEST: Andy Eschbacher |
+|  8   |  10/26  | **Prototype 2**: Mapping  | X | GUEST: Robby Kraft |
+|  9   |  11/02  | **Prototype 3**: Graphs  |  |  |
+|  10   |  11/09  | Style guide for Final Project  |  | |
+| 11   |  11/16  | **Proposal** for Final Project | X |  |
+| 12   |  11/23  | Template your project  |  | NO CLASS - THANKSGIVING |
+| 13   |  11/30  | Peer review: groom projects with feedback |  | |
+| 14   |  12/07  | **Final Presentations/Final Projects Due** |  |  |  
+| 15   |  12/14  |  -- | PROJECT CLINIC - NO CLASS APPOINTMENTS WITH AURELIA | DEMO |
 
 **READINGS**
 
