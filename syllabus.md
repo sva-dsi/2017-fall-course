@@ -109,7 +109,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 | 11   |  11/23  | Template your project  |  | NO CLASS - THANKSGIVING |
 | 12   |  11/30  | Peer review: groom projects with feedback |  | |
 | 13   |  12/07  | **Final Presentations/Final Projects Due** |  |  |  
-| 14   |  12/14  |  -- | PROJECT CLINIC - NO CLASS APPOINTMENTS WITH AURELIA | DEMO |
+| 14   |  12/14  | PROJECT CLINIC - NO CLASS - APPOINTMENTS WITH AURELIA | | DEMO |
 
 * note: November 08 is Election Day, if you are eligible to vote, I encourage you to do so.
 
