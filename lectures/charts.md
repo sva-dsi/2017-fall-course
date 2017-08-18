@@ -1,6 +1,6 @@
 ## Intro to Time Series Data
-###Parsons: Journalism + Design
-###[Web Coding for Interactive Design](https://github.com/auremoser/web-coding)
+### Parsons: Journalism + Design
+### [Web Coding for Interactive Design](https://github.com/auremoser/web-coding)
 **September 30th, 2015**
 
 ![Journo Deaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
@@ -101,7 +101,7 @@ You can tell the format of a file by its extension, or the letters that follow t
 * [Floats](https://en.wikipedia.org/wiki/Floating_point) | "1.2435"
 * [Strings](https://en.wikipedia.org/wiki/String_(computer_science)) (str) - alphanumeric collection of characters | "aurelia"
 
-#####Considerations
+##### Considerations
 
 * What do you want it to look like?
 * What do you want to happen when the user interacts with it?
@@ -229,7 +229,7 @@ Type | Title | Link/Demo | BlogPost
 [Chart.js](http://www.chartjs.org/) Line Graph | Tornado Data  | [Andrew's Block](http://bl.ocks.org/andrewxhill/9134155)
 [Plot.ly](https://plot.ly/) | Earthquake Data  | [Plotly Tutorial](https://plot.ly/ipython-notebooks/cartodb/) | [CartoDB Blog](http://blog.cartodb.com/plotly/)
 
-###Resources
+### Resources
 
 1. [Charting Tools Repository](https://github.com/auremoser/chart-tools)
 2. [Recommended tools for Visualizations](http://selection.datavisualization.ch/)
