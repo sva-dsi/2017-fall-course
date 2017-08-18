@@ -97,10 +97,10 @@ Each week you will have readings assigned, accompanied by often (but not always)
 | :---- | ------ | ----------- | -------- | ---- |
 |  1   |  09/07  | Read the syllabus  | X | |
 |  2   |  09/14  | Critique an interactive  | X | GUEST: Nadja Popovich |
-|  3   |  09/21  | Comparing interactives  | X | GUEST: Rachel Berry |
+|  3   |  09/21  | Comparing interactives  | X | GUEST: Daniel Goddemeyer |
 |  4   |  09/28  | Evaluating platforms + Versioning  | X | GUEST: Caroline Sinders? |
-|  5   |  10/05  | Dataset selection | X | GUEST: Daniel Goddemeyer |
-|  6   |  10/12  | Practice HTML/CSS  | X | GUEST: Francis Tseng / Ikene |
+|  5   |  10/05  | Dataset selection | X | GUEST: Rachel Berry |
+|  6   |  10/12  | Practice HTML/CSS  | X | GUEST: Francis Tseng |
 |  7   |  10/19  | **Prototype 1**: Time-Series/Stats  | X | GUEST: Andy Eschbacher |
 |  8   |  10/26  | **Prototype 2**: Mapping  | X | GUEST: Robby Kraft |
 |  9   |  11/02  | **Prototype 3**: Graphs  | X |  |
@@ -225,7 +225,7 @@ Consider the pieces and work shown by the guest lecturer, highlight some aspect 
 
 How can you use data visualization to innovate with integrity and intelligence in our contemporary world? There are many online venues and platforms for editorializing and delivering your message, which will you choose? This process might involve some code and custom building, but also concise research into your audience, and what guides viewers to a greater understanding of the topics you are treating. 
 
-We'll talk about ways you can publish your work, and practice a few different methods of distributing narrative.
+We'll talk about ways you can publish your work, and practice a few different methods of distributing narrative, we'll also feature a guest talk from Daniel Goddemeyer.
 
 ![Ramadan Tweets](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/ramadan.gif)
 
@@ -233,11 +233,15 @@ We'll talk about ways you can publish your work, and practice a few different me
 
 * Rogers, S., [_Ramadan in Tweets with Odyssey.JS_](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/).
 
-#### [Rachel Berry](https://github.com/cmrberry), Github
+#### [Daniel Goddemeyer](http://danielgoddemeyer.com/)
 
-Rachel is an Analytics Engineer at Github.
+Daniel is a creative director, designer, and researcher who explores our relationships with technology through interactive experiments and product applications.
 
-She'll be talking about how to use Github to publish, host and render your code.
+He's worked on interactive projects like:
+
+* [_Subspotting_](http://subspotting.nyc/main/index.html)
+* [_On Broadway_](http://on-broadway.nyc/)
+* [_Selfie City_](http://www.selfiecity.net/)
 
 #### READINGS
 * Today's Slides: 
@@ -360,18 +364,14 @@ Link to the datasets if they are available online, if not, explain how you inten
 
 * Ben Fry, [_Isometric Blocks_](http://benfry.com/isometricblocks/)
 
-This week kicks off our visualization series, we'll be exploring more HTML/CSS and some prototyping tools. And you'll also be able to play with Processing among other creative languages for data visualization. We'll feature a guest talk from Daniel Goddemeyer as well.
+This week kicks off our visualization series, we'll be exploring more HTML/CSS and some prototyping tools. And you'll also be able to play with Processing among other creative languages for data visualization. We'll feature a guest talk from Rachel Berry as well.
 
+#### [Rachel Berry](https://github.com/cmrberry), Github
 
-#### [Daniel Goddemeyer](http://danielgoddemeyer.com/)
+Rachel is an Analytics Engineer at Github.
 
-Daniel is a creative director, designer, and researcher who explores our relationships with technology through interactive experiments and product applications.
+She'll be talking about how to use Github to publish, host and render your code.
 
-He's worked on interactive projects like:
-
-* [_Subspotting_](http://subspotting.nyc/main/index.html)
-* [_On Broadway_](http://on-broadway.nyc/)
-* [_Selfie City_](http://www.selfiecity.net/)
 
 #### READINGS:
 * Today's Slides: 
