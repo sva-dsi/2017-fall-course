@@ -827,6 +827,7 @@ This meeting will go over:
 
 #### READING
 * Ford, P., [_What is Code?_](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/).
+* [End of course survey](https://goo.gl/forms/IZ4NXBOmbf3JascN2)
 
 ![certificate](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/certificate.png)
 
