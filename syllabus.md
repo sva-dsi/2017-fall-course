@@ -364,7 +364,7 @@ Link to the datasets if they are available online, if not, explain how you inten
 
 * Ben Fry, [_Isometric Blocks_](http://benfry.com/isometricblocks/)
 
-This week kicks off our visualization series, we'll be exploring more HTML/CSS and some prototyping tools. And you'll also be able to play with Processing among other creative languages for data visualization. We'll feature a guest talk from Rachel Berry as well.
+This week kicks off our visualization series, we'll be exploring more HTML/CSS and some prototyping tools. And you'll also be able to play with Processing among other creative languages for data visualization. We'll feature a guest talk from Rachel Berry as well, on how to use Github to deploy your projects.
 
 #### [Rachel Berry](https://github.com/cmrberry), Github
 
