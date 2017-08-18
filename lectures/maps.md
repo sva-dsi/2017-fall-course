@@ -1,6 +1,6 @@
 ## Intro to Mapping Data
-###Parsons: Journalism + Design
-###[Web Coding for Interactive Design](https://github.com/auremoser/web-coding)
+### Parsons: Journalism + Design
+### [Web Coding for Interactive Design](https://github.com/auremoser/web-coding)
 **October 7th, 2015**
 
 ![Satellite](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/losing.jpg)
@@ -60,7 +60,7 @@ We describe locations with a [spatiotemporal notation](https://en.wikipedia.org/
 
 > 40.735304, -73.994135
 
-###Types + Topics
+### Types + Topics
 
 ![Gallery of maps](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/gallery.jpg)
 
@@ -126,7 +126,7 @@ Source: [Geogia County Car Crash Counts](http://bl.ocks.org/auremoser/6236a61e53
 
 Maps are composed of:
 
-####1. Tiles (often)
+#### 1. Tiles (often)
 
 ![Stamen Tiles](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/stamen.jpg)
 
@@ -134,11 +134,11 @@ Tiles are 256x256 pixels squares that plot one next to the other to stitch toget
 
 ![zoom pyramid](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/pyramid.jpeg)
 
-####2. Feature Layers
+#### 2. Feature Layers
 
 Map layers that populate on top of your basemap
 
-####3. Javascript/HTML/CSS for rendering on the web
+#### 3. Javascript/HTML/CSS for rendering on the web
 
 With these languages you can publish your map with the basetiles loaded and your data layers appropriately geocoded; with javascript you can also add to the interactivity of your map, revealing metadata in the tooltips
 
