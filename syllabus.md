@@ -360,9 +360,18 @@ Link to the datasets if they are available online, if not, explain how you inten
 
 * Ben Fry, [_Isometric Blocks_](http://benfry.com/isometricblocks/)
 
-This week kicks off our visualization series, we'll be exploring more HTML/CSS and some prototyping tools. And you'll also be able to play with Processing among other creative languages for data visualization.
+This week kicks off our visualization series, we'll be exploring more HTML/CSS and some prototyping tools. And you'll also be able to play with Processing among other creative languages for data visualization. We'll feature a guest talk from Daniel Goddemeyer as well.
 
-Reminder, you can volunteer to attend [Visualized 2016](https://docs.google.com/forms/d/e/1FAIpQLSf4n1RWeITjfD5tbdsOKj07yRID6EPFngMQRKq9OIChN-vfFw/viewform?c=0&w=1&mc_cid=b5287635fe&mc_eid=05d590abdb) at Parsons on Thursday!
+
+#### [Daniel Goddemeyer](http://danielgoddemeyer.com/)
+
+Daniel is a creative director, designer, and researcher who explores our relationships with technology through interactive experiments and product applications.
+
+He's worked on interactive projects like:
+
+* [_Subspotting_](http://subspotting.nyc/main/index.html)
+* [_On Broadway_](http://on-broadway.nyc/)
+* [_Selfie City_](http://www.selfiecity.net/)
 
 #### READINGS:
 * Today's Slides: 
@@ -414,7 +423,7 @@ Try using [these practice files](http://bl.ocks.org/auremoser/2302e34cf80b551235
 
 > "In short, we're tasked with transforming data into directives. Good analysis parses numerical outputs into an understanding of the organization. We "humanize" the data by turning raw numbers into a story about our performance." ~ J. Bladt + B. Filbin
 
-This week continues our visualization series, we'll be exploring data sets for time-series interactives and statistical charts/graphs. We'll also feature a guest talk from Ekene Ijeoma.
+This week continues our visualization series, we'll be exploring data sets for time-series interactives and statistical charts/graphs. We'll feature a guest talk from Francis Tseng as well.
 
 
 ![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
@@ -423,18 +432,19 @@ This week continues our visualization series, we'll be exploring data sets for t
 
 * Reuters Graphics, [_Journalism Deaths_](http://graphics.thomsonreuters.com/14/journalist-deaths/index.html).
 
-#### [Ekene Ijeoma](http://ekeneijeoma.com/), New INC.
+#### [Francis Tseng](http://frnsys.com/), NY Times, Coral Project, NEW Inc.
 
-Ekene Ijeoma is a designer and artist based at Orbital. He was recently awarded NYFA Fellowship in Design, Urban Environments and Architecture and featured in Adweek's Creative 100 as 1 of the 10 "visual artists whose imagination and intellect will inspire you" and Good Magazine's Good 100 for "tackling pressing global issues". He'll give a talk on his work.
+Francis is a creative designer, programmer, researcher at [New Inc](http://www.newinc.org/). He'll give a talk on [his work](http://frnsys.com/) building throughful [comment systems](http://www.cjr.org/tow_center/improving_audience_engagement_coral_project.php), socially sentient machines and [dystopic business simulators](https://www.kickstarter.com/projects/frnsys/the-founder-a-dystopian-business-simulator).
 
 He's worked on interactive projects like:
 
-* [_Look Up_](http://look-up.nyc/)
-* [_Wage Islands_](https://vimeo.com/138549946)
-* [_The Refugee Project_](http://www.therefugeeproject.org/)
+* [_Humans of Simulated NY_](http://frnsys.com/hosny/)
+* [_The Founder_](http://thefounder.biz/)
+* [_ML 101_](https://github.com/frnsys/ml101)
 
 #### READINGS:
 * Today's Slides: 
+	* [Francis' presentation](http://frnsys.com/talks/sva/)
 	* [Time Series Workshop](https://gist.github.com/auremoser/5d47641f386d4f2662f28b1a9d9583f4)
 	* [Web JS](https://auremoser.github.io/web-intro-js/class1.html#/)
 * Bladt, J. and B. Filbin, [_Data Scientists' real job: storytelling_](https://hbr.org/2013/03/a-data-scientists-real-job-sto).
@@ -526,22 +536,22 @@ If that seems overwhelming, try to follow these tutorials instead:
 ## 10/26/17
 #### NETWORK AND GRAPH VISUALIZATIONS
 
-This week we'll consider visualizations that illustrate spatial relationships between data points (nodes) via (edges). We'll play with a few tools and explore graph data or relationships worth teasing out of your chosen datasets. We'll feature a guest talk from Francis Tseng as well.
+This week we'll consider visualizations that illustrate spatial relationships between data points (nodes) via (edges). We'll play with a few tools and explore graph data or relationships worth teasing out of your chosen datasets. We'll feature a guest talk from Robby Kraft as well.
 
 ![Storylines](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/storylines.jpg)
 
 **Interactive to inspire**: Tanahashi, Y., UC Davis, [_StoryLines_](http://vis.cs.ucdavis.edu/~tanahashi/storylines/)
 You can read their [paper on the topic here](http://vis.cs.ucdavis.edu/~tanahashi/PUBLICATIONS/YZR_INFOVIS2012.pdf).
 
-#### [Francis Tseng](http://frnsys.com/), NY Times, Coral Project, NEW Inc.
+#### [Robby Kraft](http://robbykraft.com/), artist, engineer, educator
 
-Francis is a creative designer, programmer, researcher at [New Inc](http://www.newinc.org/). He'll give a talk on [his work](http://frnsys.com/) building throughful [comment systems](http://www.cjr.org/tow_center/improving_audience_engagement_coral_project.php), socially sentient machines and [dystopic business simulators](https://www.kickstarter.com/projects/frnsys/the-founder-a-dystopian-business-simulator).
+Robby is an origami artist and developer in Brooklyn, who dabbles in art-science and teaches at Parsons and SFPC. 
 
 He's worked on interactive projects like:
 
-* [_Humans of Simulated NY_](http://frnsys.com/hosny/)
-* [_The Founder_](http://thefounder.biz/)
-* [_ML 101_](https://github.com/frnsys/ml101)
+* [_Origami Crease-Pattern Class_](http://origami.pw)
+* [_Snowflakes_](http://robbykraft.com/snowflakes/)
+* [_IOS Stargazing_](https://github.com/robbykraft/Astronomy)
 
 #### PRACTICE
 There are various JS tools for building graph visualizations, [Sigma.js](http://sigmajs.org/) and [Arbor.js](http://arborjs.org/) among them. 
@@ -553,7 +563,6 @@ Try to build a prototype with one of these libraries/tools to support your assig
 
 #### READINGS
 * Today's Slides:
-	* [Francis' presentation](http://frnsys.com/talks/sva/)
 	* [Test Timeseries - Visualization Code](https://github.com/auremoser/test-timeseries/)
 	* [Template for Highcharts](http://bl.ocks.org/auremoser/ea8c64ea443c674a6a25b444372844c9)
 	* [Graph Slides](https://gist.github.com/auremoser/e39c800ea5673723d8ea6468a12f5404#file-graph-md)
