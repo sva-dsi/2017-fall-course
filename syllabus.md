@@ -95,7 +95,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 
 | WEEK  |  DATE  | ASSIGNMENT DUE  | PRACTICE | NOTE |
 | :---- | ------ | ----------- | -------- | ---- |
-|  1   |  09/07  | Read the syllabus  | | |
+|  1   |  09/07  | Read the syllabus  | X | |
 |  2   |  09/14  | Critique an interactive  | X | GUEST: Nadja Popovich |
 |  3   |  09/21  | Comparing interactives  | X | GUEST: Rachel Berry |
 |  4   |  09/28  | Evaluating platforms + Versioning  | X | GUEST: Caroline Sinders? |
@@ -103,7 +103,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 |  6   |  10/12  | Practice HTML/CSS  | X | GUEST: Francis Tseng / Ikene |
 |  7   |  10/19  | **Prototype 1**: Time-Series/Stats  | X | GUEST: Andy Eschbacher |
 |  8   |  10/26  | **Prototype 2**: Mapping  | X | GUEST: Robby Kraft |
-|  9   |  11/02  | **Prototype 3**: Graphs  |  |  |
+|  9   |  11/02  | **Prototype 3**: Graphs  | X |  |
 |  10   |  11/09  | Style guide for Final Project  |  | |
 | 11   |  11/16  | **Proposal** for Final Project | X |  |
 | 12   |  11/23  | Template your project  |  | NO CLASS - THANKSGIVING |
