@@ -1,7 +1,7 @@
 Metrics + Data Visualization I - SVA-DSI
 ========
 
-![gallery](imgs/blocks.png)
+![gallery](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/blocks.png)
 
 # SYLLABUS
 
@@ -10,7 +10,7 @@ Find this resource here:
 
 ### COURSE LOGISTICS:
 	SVA
-	Sept. 7th - Dec 13th
+	Sept. 7th - Dec 14th
 	Thursdays 6-9:00PM
 
 Here is the [course listing](http://dsi.sva.edu/course/metrics-and-data-visualization-i/).
