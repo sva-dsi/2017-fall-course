@@ -96,9 +96,9 @@ Each week you will have readings assigned, accompanied by often (but not always)
 | WEEK  |  DATE  | ASSIGNMENT DUE  | PRACTICE | NOTE |
 | :---- | ------ | ----------- | -------- | ---- |
 |  1   |  09/07  | Read the syllabus  | X | |
-|  2   |  09/14  | Critique an interactive  | X | GUEST: Nadja Popovich |
+|  2   |  09/14  | Critique an interactive  | X | GUEST: Daniel Goddemeyer |
 |  3   |  09/21  | Comparing interactives  | X | GUEST: Caroline Sinders |
-|  4   |  09/28  | Evaluating platforms + Versioning  | X | GUEST: Daniel Goddemeyer? |
+|  4   |  09/28  | Evaluating platforms + Versioning  | X | GUEST: Nadja Popovich? |
 |  5   |  10/05  | Dataset selection | X | GUEST: Rachel Berry |
 |  6   |  10/12  | Practice HTML/CSS  | X | GUEST: Francis Tseng |
 |  7   |  10/19  | **Prototype 1**: Time-Series/Stats  | X | GUEST: Andy Eschbacher |
