@@ -434,7 +434,7 @@ This week continues our visualization series, we'll be exploring data sets for t
 
 #### [Francis Tseng](http://frnsys.com/), NY Times, Coral Project, NEW Inc.
 
-Francis is a creative designer, programmer, researcher at [New Inc](http://www.newinc.org/). He'll give a talk on [his work](http://frnsys.com/) building throughful [comment systems](http://www.cjr.org/tow_center/improving_audience_engagement_coral_project.php), socially sentient machines and [dystopic business simulators](https://www.kickstarter.com/projects/frnsys/the-founder-a-dystopian-business-simulator).
+Francis is a creative designer, programmer, researcher at [New Inc](http://www.newinc.org/) and co-publisher of [The New Inquiry](https://thenewinquiry.com/). He'll give a talk on [his work](http://frnsys.com/) building throughful [comment systems](http://www.cjr.org/tow_center/improving_audience_engagement_coral_project.php), socially sentient machines and [dystopic business simulators](https://www.kickstarter.com/projects/frnsys/the-founder-a-dystopian-business-simulator).
 
 He's worked on interactive projects like:
 
