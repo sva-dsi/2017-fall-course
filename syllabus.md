@@ -97,8 +97,8 @@ Each week you will have readings assigned, accompanied by often (but not always)
 | :---- | ------ | ----------- | -------- | ---- |
 |  1   |  09/07  | Read the syllabus  | X | |
 |  2   |  09/14  | Critique an interactive  | X | GUEST: Nadja Popovich |
-|  3   |  09/21  | Comparing interactives  | X | GUEST: Daniel Goddemeyer |
-|  4   |  09/28  | Evaluating platforms + Versioning  | X | GUEST: Caroline Sinders? |
+|  3   |  09/21  | Comparing interactives  | X | GUEST: Caroline Sinders |
+|  4   |  09/28  | Evaluating platforms + Versioning  | X | GUEST: Daniel Goddemeyer? |
 |  5   |  10/05  | Dataset selection | X | GUEST: Rachel Berry |
 |  6   |  10/12  | Practice HTML/CSS  | X | GUEST: Francis Tseng |
 |  7   |  10/19  | **Prototype 1**: Time-Series/Stats  | X | GUEST: Andy Eschbacher |
@@ -233,15 +233,15 @@ We'll talk about ways you can publish your work, and practice a few different me
 
 * Rogers, S., [_Ramadan in Tweets with Odyssey.JS_](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/).
 
-#### [Daniel Goddemeyer](http://danielgoddemeyer.com/)
+#### [Caroline Sinders](http://carolinesinders.com/), Eyebeam, IBM Watson
 
-Daniel is a creative director, designer, and researcher who explores our relationships with technology through interactive experiments and product applications.
+Caroline Sinders is a user researcher for IBM Watson, as well as an artist, researcher, and video game designer. She'll give a talk on [her projects](http://carolinesinders.com/), and thoughtful approaches to creative work with computers.
 
-He's worked on interactive projects like:
+She's worked on interactive projects like:
 
-* [_Subspotting_](http://subspotting.nyc/main/index.html)
-* [_On Broadway_](http://on-broadway.nyc/)
-* [_Selfie City_](http://www.selfiecity.net/)
+* [_Night Witches_](http://carolinesinders.com/#/nightwitches/)
+* [_Intel.IQ_](http://carolinesinders.com/#/inteliq/)
+* [_Read Your Tags_](http://carolinesinders.com/#/readyourtags/)
 
 #### READINGS
 * Today's Slides: 
@@ -290,7 +290,7 @@ BONUS: link to your first bl.ock (see `practice` above). Write a sentence or two
 
 >"Narrative can on the one hand be broken down into a set of universal laws and principles that may transcend mediums. Stories have temporality in common (they deal with time) as well as causation (they deal with cause and effect of something). On the other hand there are the more media specific narrative affordances as for example in the way that film, opera, novel and data visualisation – because of their physicality and the dimensions open to them – would be able to give a different ‘staging’ of a story." ~ C. Twigg
 
-What is data-driven development and what kind of stories can it help us convey? How does it relate to art, and why are visualizations such an important component to interactive development? This week, we'll identify some data sources to support solid narratives. We'll feature a guest talk from Caroline Sinders as well.
+What is data-driven development and what kind of stories can it help us convey? How does it relate to art, and why are visualizations such an important component to interactive development? This week, we'll identify some data sources to support solid narratives. We'll feature a guest talk from Daniel Goddemeyer as well.
 
 ![Guantanamo Calendar)](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/history.jpg)
 
@@ -298,15 +298,15 @@ What is data-driven development and what kind of stories can it help us convey? 
 
 * NYTimes (2014), [_Guantanamo: A History of the Detainee Population_](http://projects.nytimes.com/guantanamo). Other visualizations have been built using [these same data](https://braid.io/tile/guantanamo-bay-detainees#all).
 
-#### [Caroline Sinders](http://carolinesinders.com/), Eyebeam, IBM Watson
+#### [Daniel Goddemeyer](http://danielgoddemeyer.com/)
 
-Caroline Sinders is a user researcher for IBM Watson, as well as an artist, researcher, and video game designer. She'll give a talk on [her projects](http://carolinesinders.com/), and thoughtful approaches to creative work with computers.
+Daniel is a creative director, designer, and researcher who explores our relationships with technology through interactive experiments and product applications.
 
-She's worked on interactive projects like:
+He's worked on interactive projects like:
 
-* [_Night Witches_](http://carolinesinders.com/#/nightwitches/)
-* [_Intel.IQ_](http://carolinesinders.com/#/inteliq/)
-* [_Read Your Tags_](http://carolinesinders.com/#/readyourtags/)
+* [_Subspotting_](http://subspotting.nyc/main/index.html)
+* [_On Broadway_](http://on-broadway.nyc/)
+* [_Selfie City_](http://www.selfiecity.net/)
 
 #### READINGS
 * Data Art Net, [_A Visual History of Data Visualization_](http://data-art.net/resources/history_of_vis.php).
