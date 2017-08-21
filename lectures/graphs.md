@@ -1,6 +1,6 @@
 ## Intro to Network + Graph Data
-###Parsons: Journalism + Design
-###[Web Coding for Interactive Design](https://github.com/auremoser/web-coding)
+### Parsons: Journalism + Design
+### [Web Coding for Interactive Design](https://github.com/auremoser/web-coding)
 **October 14th, 2015**
 
 ![Storylines](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/storylines.jpg)

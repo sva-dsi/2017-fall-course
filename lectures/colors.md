@@ -1,6 +1,6 @@
 ## Intro to Color + Style
-###SVA-DSI
-###[Metrics and Data Visualiation I](https://github.com/sva-dsi/2016-fall-course/blob/master/syllabus.md#110116)
+### SVA-DSI
+### [Metrics and Data Visualiation I](https://github.com/sva-dsi/2016-fall-course/blob/master/syllabus.md#110116)
 **November 1st, 2016**
 
 ![Whale Hunt](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/whale.jpg)
@@ -14,7 +14,7 @@ Find this document here:
 * Gist: <http://tinyurl.com/dsi-color>
 
 
-##Outline
+## Outline
 
 1. Color Basics
 	+ Intro to color thinking
@@ -40,7 +40,7 @@ It's complicated, we're going to go over a few short objectives here:
 
 ![Schindler's list](http://i.huffpost.com/gen/1021359/images/o-SCHINDLERS-LIST-RED-COAT-GIRL-facebook.jpg)
 
-#####Intro to color thinking
+##### Intro to color thinking
 
 There are various approaches to the question of 'what is color?'. In art, [color](http://arthistory.about.com/cs/glossaries/g/c_color.htm) is defined as "the element of art that is produced when light striking an object is reflected back to the eye."
 
