@@ -165,22 +165,22 @@ Remember, you can view a template of what your assignment format herein this [gi
 
 >"Visualizations act as a campfire around which we gather to tell stories." ~ A. Shalloway
 
-This week we'll here from an interactive developer working in a newsroom in NYC; Aurelia will be out this week so Nadja Popovich will take her place, starting the course with a talk, after which you can leave class. Our practice and assignment exercises will go over different approaches to similar topics in news and art, and ways that they might inspire eachother. 
+This week we'll here from an interactive developer working in a newsroom in NYC; Daniel Goddemeyer, starting the course with a talk. Our practice and assignment exercises will go over different approaches to similar topics in news and art, and ways that they might inspire eachother. 
 
 ![Congress](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/congress.jpg)
 
 The Guardian, [_Are you reflected in the new Congress](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented).
 
+#### [Daniel Goddemeyer](http://danielgoddemeyer.com/)
 
-#### [Nadja Popovich](http://www.theguardian.com/profile/nadja-popovich), The Guardian US
+Daniel is a creative director, designer, and researcher who explores our relationships with technology through interactive experiments and product applications.
 
-Nadja is an interactive journalist at the Guardian U.S.
+He's worked on interactive projects like:
 
-She's worked on interactive projects like:
+* [_Subspotting_](http://subspotting.nyc/main/index.html)
+* [_On Broadway_](http://on-broadway.nyc/)
+* [_Selfie City_](http://www.selfiecity.net/)
 
-* [_The Counted_](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings)
-* [_Watch how the measles outbreak spread..._](http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated)
-* [_Are you reflected in the new Congress?_](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented)
 
 #### READINGS
 * [Today's Slides: Web Github](https://auremoser.github.io/web-github/)
@@ -225,7 +225,7 @@ Consider the pieces and work shown by the guest lecturer, highlight some aspect 
 
 How can you use data visualization to innovate with integrity and intelligence in our contemporary world? There are many online venues and platforms for editorializing and delivering your message, which will you choose? This process might involve some code and custom building, but also concise research into your audience, and what guides viewers to a greater understanding of the topics you are treating. 
 
-We'll talk about ways you can publish your work, and practice a few different methods of distributing narrative, we'll also feature a guest talk from Daniel Goddemeyer.
+We'll talk about ways you can publish your work, and practice a few different methods of distributing narrative, we'll also feature a guest talk from Caroline Sinders.
 
 ![Ramadan Tweets](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/ramadan.gif)
 
@@ -290,7 +290,7 @@ BONUS: link to your first bl.ock (see `practice` above). Write a sentence or two
 
 >"Narrative can on the one hand be broken down into a set of universal laws and principles that may transcend mediums. Stories have temporality in common (they deal with time) as well as causation (they deal with cause and effect of something). On the other hand there are the more media specific narrative affordances as for example in the way that film, opera, novel and data visualisation – because of their physicality and the dimensions open to them – would be able to give a different ‘staging’ of a story." ~ C. Twigg
 
-What is data-driven development and what kind of stories can it help us convey? How does it relate to art, and why are visualizations such an important component to interactive development? This week, we'll identify some data sources to support solid narratives. We'll feature a guest talk from Daniel Goddemeyer as well.
+What is data-driven development and what kind of stories can it help us convey? How does it relate to art, and why are visualizations such an important component to interactive development? This week, we'll identify some data sources to support solid narratives. We'll feature a guest talk from Nadja Popovich as well.
 
 ![Guantanamo Calendar)](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/history.jpg)
 
@@ -298,15 +298,15 @@ What is data-driven development and what kind of stories can it help us convey? 
 
 * NYTimes (2014), [_Guantanamo: A History of the Detainee Population_](http://projects.nytimes.com/guantanamo). Other visualizations have been built using [these same data](https://braid.io/tile/guantanamo-bay-detainees#all).
 
-#### [Daniel Goddemeyer](http://danielgoddemeyer.com/)
+#### [Nadja Popovich](http://www.theguardian.com/profile/nadja-popovich), The Guardian US
 
-Daniel is a creative director, designer, and researcher who explores our relationships with technology through interactive experiments and product applications.
+Nadja is an interactive journalist at the Guardian U.S.
 
-He's worked on interactive projects like:
+She's worked on interactive projects like:
 
-* [_Subspotting_](http://subspotting.nyc/main/index.html)
-* [_On Broadway_](http://on-broadway.nyc/)
-* [_Selfie City_](http://www.selfiecity.net/)
+* [_The Counted_](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings)
+* [_Watch how the measles outbreak spread..._](http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated)
+* [_Are you reflected in the new Congress?_](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented)
 
 #### READINGS
 * Data Art Net, [_A Visual History of Data Visualization_](http://data-art.net/resources/history_of_vis.php).
