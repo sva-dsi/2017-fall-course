@@ -490,6 +490,7 @@ He's worked on interactive projects like:
 * [_Carto's Builder_](https://carto.com/builder/)
 * [_Maps + Bl.ocks_](https://bl.ocks.org/ohasselblad)
 * [_Crankshaft_](https://github.com/CartoDB/crankshaft)
+* [_Carto Frames_](https://github.com/CartoDB/cartoframes)
 
 #### READINGS
 * Today's Slides: 
