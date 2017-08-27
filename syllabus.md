@@ -744,7 +744,7 @@ Meet with your project partners to discuss how you plan to wrap-up your projects
 
 **Interactive to inspire**: 
 
-* NPR's [Index of the best commencement speaches ever](http://apps.npr.org/commencement/).
+* NPR's [Index of the best commencement speeches ever](http://apps.npr.org/commencement/).
 
 #### READINGS
 * Slides: 
