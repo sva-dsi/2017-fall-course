@@ -98,7 +98,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 |  1   |  09/07  | Read the syllabus  | X | |
 |  2   |  09/14  | Critique an interactive  | X | GUEST: Daniel Goddemeyer |
 |  3   |  09/21  | Comparing interactives  | X | GUEST: Caroline Sinders |
-|  4   |  09/28  | Evaluating platforms + Versioning  | X | GUEST: Nadja Popovich? |
+|  4   |  09/28  | Evaluating platforms + Versioning  | X |  |
 |  5   |  10/05  | Dataset selection | X | GUEST: Rachel Berry |
 |  6   |  10/12  | Practice HTML/CSS  | X | GUEST: Francis Tseng |
 |  7   |  10/19  | **Prototype 1**: Time-Series/Stats  | X | GUEST: Andy Eschbacher |
@@ -290,7 +290,7 @@ BONUS: link to your first bl.ock (see `practice` above). Write a sentence or two
 
 >"Narrative can on the one hand be broken down into a set of universal laws and principles that may transcend mediums. Stories have temporality in common (they deal with time) as well as causation (they deal with cause and effect of something). On the other hand there are the more media specific narrative affordances as for example in the way that film, opera, novel and data visualisation – because of their physicality and the dimensions open to them – would be able to give a different ‘staging’ of a story." ~ C. Twigg
 
-What is data-driven development and what kind of stories can it help us convey? How does it relate to art, and why are visualizations such an important component to interactive development? This week, we'll identify some data sources to support solid narratives. We'll feature a guest talk from Nadja Popovich as well.
+What is data-driven development and what kind of stories can it help us convey? How does it relate to art, and why are visualizations such an important component to interactive development? This week, we'll identify some data sources to support solid narratives. 
 
 ![Guantanamo Calendar)](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/history.jpg)
 
@@ -298,11 +298,7 @@ What is data-driven development and what kind of stories can it help us convey? 
 
 * NYTimes (2014), [_Guantanamo: A History of the Detainee Population_](http://projects.nytimes.com/guantanamo). Other visualizations have been built using [these same data](https://braid.io/tile/guantanamo-bay-detainees#all).
 
-#### [Nadja Popovich](http://www.theguardian.com/profile/nadja-popovich), The Guardian US
-
-Nadja is an interactive journalist at the Guardian U.S.
-
-She's worked on interactive projects like:
+**Other interactives this week**:
 
 * [_The Counted_](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings)
 * [_Watch how the measles outbreak spread..._](http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated)
