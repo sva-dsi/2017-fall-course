@@ -233,9 +233,9 @@ We'll talk about ways you can publish your work, and practice a few different me
 
 * Rogers, S., [_Ramadan in Tweets with Odyssey.JS_](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/).
 
-#### [Caroline Sinders](http://carolinesinders.com/), Eyebeam, IBM Watson
+#### [Caroline Sinders](http://carolinesinders.com/), Eyebeam, Wikimedia
 
-Caroline Sinders is a user researcher for IBM Watson, as well as an artist, researcher, and video game designer. She'll give a talk on [her projects](http://carolinesinders.com/), and thoughtful approaches to creative work with computers.
+Caroline Sinders is a user researcher for Wikimedia, as well as an artist, researcher, and video game designer. She'll give a talk on [her projects](http://carolinesinders.com/), and thoughtful approaches to creative work with computers.
 
 She's worked on interactive projects like:
 
