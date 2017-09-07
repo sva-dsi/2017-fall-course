@@ -140,7 +140,9 @@ What is an interactive application, a data visualization, and what is this cours
 * Journalism Tools, [_How they did it_](https://medium.com/@Journalism2ls/how-they-did-it-1b2a9baf666a).
 
 #### PRACTICE:
-* Setup your [Github](https://github.com/) accounts
+
+Setup your [Github](https://github.com/) accounts
+
 * [The Basics of Markdown Syntax, Daring Fireball](http://daringfireball.net/projects/markdown/basics)
 * [Interactive Markdown Tutorial](https://www.markdowntutorial.com/)
 * [CLI Handbook](http://cli.learncodethehardway.org/book/)
