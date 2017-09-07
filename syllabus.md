@@ -142,6 +142,7 @@ What is an interactive application, a data visualization, and what is this cours
 #### PRACTICE:
 * Setup your [Github](https://github.com/) accounts
 * [The Basics of Markdown Syntax, Daring Fireball](http://daringfireball.net/projects/markdown/basics)
+* [Interactive Markdown Tutorial](https://www.markdowntutorial.com/)
 * [CLI Handbook](http://cli.learncodethehardway.org/book/)
 * [Terminal for Windows](https://conemu.github.io/)
 * [Terminal for Mac](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/)
@@ -152,12 +153,18 @@ What is an interactive application, a data visualization, and what is this cours
 
 We will go over this process, but you should practice some of the terminal commands and markdown syntax so that you feel comfortable on your own machines. We'll go over it next week.
 
+Other things you may consider subscribing to:
+
+* [A Drip of Javascript](http://adripofjavascript.com/)
+* [Daily Javascript](http://daily-javascript.com/)
+* [Daily UI Challenge](http://www.dailyui.co/)
+
 #### ASSIGNMENT
 Find an interactive that you appreciate, prefereably (but not obligatorily) one that addresses a social issue of interest to you. Write 1-2 paragraphs about why you chose it, what it is about, how the interactive/online medium chosen was particularly conducive to the narrative (or wasn't). Finally, explain how it was built, do some research to define what programming language it was written in; what was its creation story (if you can find it)?
 
 It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatthis/posts/publichousing/), as complex as a [ProPublica graphic](http://projects.propublica.org/louisiana/), as iconic as [Snowfall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek), as riveting as a [graphic novel](http://zombies.epicmagazine.com/story/5937), or as arty as [this exhibit of themed photos](http://www.themorningnews.org/gallery/people-of-the-sun), but the effort to understand and document it should be the same. Extra points for finding something not on the list above, or review something in the [13pt Graphics list](http://13pt.com/graphics/), a grouping assembled by the NYTimes.
 
-Remember, you can view a template of what your assignment format here in this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
+Remember, you can view a template of what your assignment format here in this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f). Check out the Markdown Tutorials and resources in the Practice section for tips!
 
 ## 9/14/17
 
