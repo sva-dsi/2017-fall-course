@@ -99,7 +99,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 |  2   |  09/14  | Critique an interactive  | X | GUEST: Daniel Goddemeyer |
 |  3   |  09/21  | Comparing interactives  | X | GUEST: Caroline Sinders |
 |  4   |  09/28  | Evaluating platforms + Versioning  | X | REMOTE CLASS |
-|  5   |  10/05  | Dataset selection | X | GUEST: Mystery Github Person! |
+|  5   |  10/05  | Dataset selection | X | GUEST: Alejandro Figueroa |
 |  6   |  10/12  | Practice HTML/CSS  | X | GUEST: Francis Tseng |
 |  7   |  10/19  | **Prototype 1**: Time-Series/Stats  | X | GUEST: Andy Eschbacher |
 |  8   |  10/26  | **Prototype 2**: Mapping  | X | GUEST: Robby Kraft |
@@ -117,7 +117,7 @@ Readings are assigned to correspond with that week's assignment and class lesson
 
 **There is no textbook for this course** as most of the resources can be found for free online.
 
-You can find the [FULL BIBLIOGRAPHY](https://github.com/sva-dsi/2016-fall-course/blob/master/bibliography.md) in the repository for this course.
+You can find the [FULL BIBLIOGRAPHY](https://github.com/sva-dsi/2017-fall-course/blob/master/bibliography.md) in the repository for this course.
 
 
 # CLASS CALENDAR
@@ -137,7 +137,6 @@ What is an interactive application, a data visualization, and what is this cours
 
 #### READINGS:
 * [Today's Slides: Web Concepts](https://auremoser.github.io/web-concepts/#/14)
-* Darnton, R., [_Writing and telling stories_](http://dash.harvard.edu/bitstream/handle/1/3403047/darnton_news.pdf?sequence=2).
 * Journalism Tools, [_How they did it_](https://medium.com/@Journalism2ls/how-they-did-it-1b2a9baf666a).
 
 #### PRACTICE:
@@ -147,17 +146,18 @@ What is an interactive application, a data visualization, and what is this cours
 * [Terminal for Windows](https://conemu.github.io/)
 * [Terminal for Mac](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/)
 * [Command Line Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/)
-* [On Demand Github Tutorials](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
+* [On Demand Github Tutorials](https://guides.github.com/activities/hello-world/)
+* [Learn Markdown in Y Minutes](https://learnxinyminutes.com/docs/markdown/)
 * [HTML/CSS Practice site](http://webdive.ktam.org/web/basics)
 
 We will go over this process, but you should practice some of the terminal commands and markdown syntax so that you feel comfortable on your own machines. We'll go over it next week.
 
 #### ASSIGNMENT
-Find an interactive that you appreciate, prefereably (but not obligatorily) one that addresses a social issue of interest to you. Write 2 paragraphs about why you chose it, what it is about, how the interactive/online medium chosen was particularly conducive to the narrative (or wasn't). Finally, explain how it was built, do some research to define what programming language it was written in; what was its creation story (if you can find it)?
+Find an interactive that you appreciate, prefereably (but not obligatorily) one that addresses a social issue of interest to you. Write 1-2 paragraphs about why you chose it, what it is about, how the interactive/online medium chosen was particularly conducive to the narrative (or wasn't). Finally, explain how it was built, do some research to define what programming language it was written in; what was its creation story (if you can find it)?
 
 It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatthis/posts/publichousing/), as complex as a [ProPublica graphic](http://projects.propublica.org/louisiana/), as iconic as [Snowfall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek), as riveting as a [graphic novel](http://zombies.epicmagazine.com/story/5937), or as arty as [this exhibit of themed photos](http://www.themorningnews.org/gallery/people-of-the-sun), but the effort to understand and document it should be the same. Extra points for finding something not on the list above, or review something in the [13pt Graphics list](http://13pt.com/graphics/), a grouping assembled by the NYTimes.
 
-Remember, you can view a template of what your assignment format herein this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
+Remember, you can view a template of what your assignment format here in this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
 
 ## 9/14/17
 
