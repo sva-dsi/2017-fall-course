@@ -15,6 +15,6 @@ Data visualizations increasingly shape the way we process the success of initiat
 
 This course will introduce web development for data visualization, including an introduction to web scripting languages, version control for collaborative coding, and the authorship of interactive visualization on/off the web.
 
-* Read on for the [syllabus](https://github.com/sva-dsi/2017-fall-course/blob/master/syllabus.md), [bibliography](https://github.com/sva-dsi/2017-fall-course/blob/master/bibliography.md), and slides/exercises in this repository.
+* Read on for the [syllabus](https://github.com/sva-dsi/2017-fall-course/blob/master/syllabus.md), [bibliography](https://github.com/sva-dsi/2017-fall-course/blob/master/bibliography.md), and lectures/exercises in this repository.
 * Check out our Github [classroom here](https://classroom.github.com/classrooms/20387575-sva-dsi-data-vis).
-* Like our logo? Check out the [Pixels for Food Project by Logo Dust](http://pixels4food.com/?logodust). Thank you [Mati](http://www.innovatorsunder35.com/innovator/matias-kalwill) for the color help!
+* Like our logo? Check out the [Logo Dust List](http://logodust.com/). Thank you [Mati](http://www.innovatorsunder35.com/innovator/matias-kalwill) for the color help!
