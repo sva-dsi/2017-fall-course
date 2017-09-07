@@ -98,8 +98,8 @@ Each week you will have readings assigned, accompanied by often (but not always)
 |  1   |  09/07  | Read the syllabus  | X | |
 |  2   |  09/14  | Critique an interactive  | X | GUEST: Daniel Goddemeyer |
 |  3   |  09/21  | Comparing interactives  | X | GUEST: Caroline Sinders |
-|  4   |  09/28  | Evaluating platforms + Versioning  | X |  |
-|  5   |  10/05  | Dataset selection | X | GUEST: Rachel Berry |
+|  4   |  09/28  | Evaluating platforms + Versioning  | X | REMOTE CLASS |
+|  5   |  10/05  | Dataset selection | X | GUEST: Mystery Github Person! |
 |  6   |  10/12  | Practice HTML/CSS  | X | GUEST: Francis Tseng |
 |  7   |  10/19  | **Prototype 1**: Time-Series/Stats  | X | GUEST: Andy Eschbacher |
 |  8   |  10/26  | **Prototype 2**: Mapping  | X | GUEST: Robby Kraft |
