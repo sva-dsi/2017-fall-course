@@ -178,7 +178,7 @@ This week we'll here from an interactive developer working in a newsroom in NYC;
 
 ![Congress](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/congress.jpg)
 
-The Guardian, [_Are you reflected in the new Congress](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented).
+The Guardian, [_Are you reflected in the new Congress_](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented).
 
 #### [Daniel Goddemeyer](http://danielgoddemeyer.com/)
 
