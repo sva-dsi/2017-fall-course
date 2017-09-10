@@ -86,7 +86,7 @@ Here's an example of two images with some similar colors combined. Your eye stru
 
  The point is that the center color is actually the same, the ground on which it is based makes it look distinct.
 
- ![](http://images.runemadsen.com/1440x/itten_exchange2-e18896ea63b2570f24ce868640af63a3.jpg)
+ ![](http://assets.runemadsen.com/itten_exchange2-e18896ea63b2570f24ce868640af63a3_medium.jpg)
 
  The advantage of writing color into your code, with numbers and hex values (like `#f60`), is that you can make sure your color choices are authentic (numeric) and be strategic about their pairings without being weaked by your eyes' perception, and reflextive mixing.
 
@@ -111,7 +111,7 @@ Complementary colors are colors that are accross eachother on the color wheel. Y
 
 You can choose one color and two subdued colorly like black/white to highlight something of pertinence.
 
-![](http://images.runemadsen.com/1440x/vitaminwater-f707011dbe764deb074e00b39e858c47.jpg)
+![](http://assets.runemadsen.com/klm-4896394dd02177e59d7d5af317a0076c_medium.jpg)
 
 There are ways to organize things that are trending and beautiful with an economy on color.
 
@@ -119,7 +119,7 @@ There are ways to organize things that are trending and beautiful with an econom
 
 However, colors for visualizations have meaning, and if you are building comparisons, you can do damage in using only the same colors.
 
-![](http://images.runemadsen.com/1440x/bad_mono-746f3c1d5f85542436a302e72f3053c5.jpg)
+![](http://assets.runemadsen.com/bad_mono-746f3c1d5f85542436a302e72f3053c5_medium.jpg)
 
 For the web, you'll often see colors in the following formats:
 
@@ -186,10 +186,9 @@ We are not going to do anything that complicated. I just want you to have an ide
 1. [Perception Concerns](https://github.com/tmcw/perception)
 2. [Gestalt Theory](http://emeeks.github.io/gestaltdataviz/section1.html)
 3. [Color Brewer](http://colorbrewer2.org/)
-4. [Geocolor](http://geocolor.io/)
-5. [Color Hexa](http://www.colorhexa.com/)
-6. [Flat UI Colors](http://flatuicolors.com/)
-7. [Sequential Color Theme Map for Choropleths](http://blog.webkid.io/3d-maps-with-osmbuildings/)
-8. Rune.js - a project developed out of the ITP program and ["Printing Code"](http://printingcode.runemadsen.com/), another course you should totally check out!
-9. [Picking Color Palettes: A Guide](https://medium.com/graphiq-engineering/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.pntzfz5tc)
-10. [D3: How to pick colors for your data visualization](https://learningd3.com/blog/how-to-pick-colors-for-your-data-visualization/)
+4. [Color Hexa](http://www.colorhexa.com/)
+5. [Flat UI Colors](http://flatuicolors.com/)
+6. [Sequential Color Theme Map for Choropleths](http://blog.webkid.io/3d-maps-with-osmbuildings/)
+7. Rune.js - a project developed out of the ITP program and ["Printing Code"](http://printingcode.runemadsen.com/), another course you should totally check out!
+8. [Picking Color Palettes: A Guide](https://medium.com/graphiq-engineering/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.pntzfz5tc)
+9. [D3: How to pick colors for your data visualization](https://learningd3.com/blog/how-to-pick-colors-for-your-data-visualization/)
