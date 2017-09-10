@@ -1,7 +1,7 @@
-## Intro to Network + Graph Data
-### Parsons: Journalism + Design
-### [Web Coding for Interactive Design](https://github.com/auremoser/web-coding)
-**October 14th, 2015**
+## Intro to Mapping Data
+### SVA-DSI
+### [Metrics and Data Visualization I](http://dsi.sva.edu/course/metrics-and-data-visualization-i/)
+**October 26th, 2017**
 
 ![Storylines](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/storylines.jpg)
 
@@ -10,7 +10,7 @@ You can read their [paper on the topic here](http://vis.cs.ucdavis.edu/~tanahash
 
 Find this document here:
 
-* Gist: <http://tinyurl.com/wc-graphs>
+* Gist: <http://tinyurl.com/svadsi-graphs>
 
 ### Outline
 

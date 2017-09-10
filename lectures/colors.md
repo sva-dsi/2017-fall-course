@@ -1,7 +1,8 @@
 ## Intro to Color + Style
 ### SVA-DSI
-### [Metrics and Data Visualiation I](https://github.com/sva-dsi/2016-fall-course/blob/master/syllabus.md#110116)
-**November 1st, 2016**
+### [Metrics and Data Visualization I](http://dsi.sva.edu/course/metrics-and-data-visualization-i/)
+
+**November 2nd, 2017**
 
 ![Whale Hunt](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/whale.jpg)
 
@@ -11,7 +12,7 @@
 
 Find this document here:
 
-* Gist: <http://tinyurl.com/dsi-color>
+* Gist: <http://tinyurl.com/svadsi-colors>
 
 
 ## Outline

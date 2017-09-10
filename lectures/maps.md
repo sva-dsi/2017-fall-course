@@ -1,14 +1,14 @@
 ## Intro to Mapping Data
-### Parsons: Journalism + Design
-### [Web Coding for Interactive Design](https://github.com/auremoser/web-coding)
-**October 7th, 2015**
+### SVA-DSI
+### [Metrics and Data Visualization I](http://dsi.sva.edu/course/metrics-and-data-visualization-i/)
+**October 19th, 2017**
 
 ![Satellite](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/losing.jpg)
 ProPublica, [_Losing Ground_](http://projects.propublica.org/louisiana/).
 
 Find this document here:
 
-* Gist: <http://tinyurl.com/wc-webmaps>
+* Gist: <http://tinyurl.com/svadsi-maps>
 
 ### Outline
 

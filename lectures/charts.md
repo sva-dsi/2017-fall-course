@@ -1,13 +1,13 @@
 ## Intro to Time Series Data
-### Parsons: Journalism + Design
-### [Web Coding for Interactive Design](https://github.com/auremoser/web-coding)
-**September 30th, 2015**
+### SVA-DSI
+### [Metrics and Data Visualization I](http://dsi.sva.edu/course/metrics-and-data-visualization-i/)
+**October 10th, 2017**
 
 ![Journo Deaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
 
 Find this document here:
 
-* Gist: <http://tinyurl.com/wc-timeseries>
+* Gist: <http://tinyurl.com/svadsi-charts>
 
 ### Outline
 1. Time Series Basics
@@ -120,7 +120,6 @@ It provides a great overview of the process of coding, complete with debugging, 
 * [Data.gov](http://www.data.gov/) - almost every government/city has an "open data portal" intiative where you can download data of interest to you, and search through for differnt formats
 * [Federal Data Listing](https://etherpad.mozilla.org/fed-data)
 * [Enigma.io](http://enigma.io/) - loads more open data, larger datasets, and tools for correlating multple datasets
-* [Exversion](https://exversion.com/) - similar data catalog, they also have a fabulous newsletter (subscribe for cool datasets in your inbox)
 * [NYC Open Data](https://nycopendata.socrata.com/) - loads of cities have "socrata" portals where you can download data
 * [NASA Data](https://data.nasa.gov/)
 * [IRE Database Library](https://www.ire.org/nicar/database-library/) - IRE also provides a lot of open data to investigative journos, along with data dictionaries telling you how to read it

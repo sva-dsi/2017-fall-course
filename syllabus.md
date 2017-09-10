@@ -450,7 +450,7 @@ He's worked on interactive projects like:
 #### READINGS:
 * Today's Slides: 
 	* [Francis' presentation](http://frnsys.com/talks/sva/)
-	* [Time Series Workshop](https://gist.github.com/auremoser/5d47641f386d4f2662f28b1a9d9583f4)
+	* [Time Series Workshop](https://github.com/sva-dsi/2017-fall-course/blob/master/lectures/charts.md)
 	* [Web JS](https://auremoser.github.io/web-intro-js/class1.html#/)
 * Bladt, J. and B. Filbin, [_Data Scientists' real job: storytelling_](https://hbr.org/2013/03/a-data-scientists-real-job-sto).
 * Carr, D., [_At the front lines, bearing witness in real time_](http://www.nytimes.com/2014/07/28/business/media/at-front-lines-bearing-witness-in-real-time.html?module=Search&mabReward=relbias%3Ar%2C%7B%221%22%3A%22RI%3A8%22%7D).
@@ -493,15 +493,15 @@ He's worked on interactive projects like:
 
 * [_The Map Academy_](https://carto.com/academy/)
 * [_Carto's Builder_](https://carto.com/builder/)
-* [_Maps + Bl.ocks_](https://bl.ocks.org/ohasselblad)
+* [_Maps + Bl.ocks_](https://github.com/andy-esch)
 * [_Crankshaft_](https://github.com/CartoDB/crankshaft)
 * [_Carto Frames_](https://github.com/CartoDB/cartoframes)
 
 #### READINGS
 * Today's Slides: 
 	* [Signup link for Carto](https://carto.com/signup?plan=academy)
-	* [Mapping Basics](https://gist.github.com/auremoser/da1b8fe8de23fe6365923b1a4d8f7b7d)
-	* [Mapping Workshop](https://gist.github.com/ohasselblad/a21a6d59d9b6525d182bcb4aa9d07843)
+	* [Mapping Basics](https://github.com/sva-dsi/2017-fall-course/blob/master/lectures/maps.md)
+	* [Andy's slides]()
 	* [Web JS](https://auremoser.github.io/web-intro-js/class1.html#/)
 
 * Larson, J., [_Anatomy of a News Map_](https://www.propublica.org/nerds/item/anatomy-of-a-news-map).
@@ -571,7 +571,7 @@ Try to build a prototype with one of these libraries/tools to support your assig
 * Today's Slides:
 	* [Test Timeseries - Visualization Code](https://github.com/auremoser/test-timeseries/)
 	* [Template for Highcharts](http://bl.ocks.org/auremoser/ea8c64ea443c674a6a25b444372844c9)
-	* [Graph Slides](https://gist.github.com/auremoser/e39c800ea5673723d8ea6468a12f5404#file-graph-md)
+	* [Graph Slides](https://github.com/sva-dsi/2017-fall-course/blob/master/lectures/graphs.md)
 * Tamassia, R., [_Handbook of graph drawing and visualization_](https://cs.brown.edu/~rt/gdhandbook/).
 * Tarawneh, R.M., et al., [_A general introduction to graph visualization techniques_](http://drops.dagstuhl.de/opus/volltexte/2012/3748/pdf/13.pdf).
 
@@ -598,7 +598,7 @@ Color and mood are important to visualizations and the general legibility of you
 
 #### READINGS:
 * Today's Slides:
-	* [Color Lesson](https://gist.github.com/auremoser/2c3ee2fd8ba4c7c3989eadb5d092e2ad)
+	* [Color Lesson](https://github.com/sva-dsi/2017-fall-course/blob/master/lectures/colors.md)
 	* [Web JS - 2](https://auremoser.github.io/web-intro-js/class2.html#/)
 
 * Huval, R., [_The Color of Disruption_](http://www.theawl.com/2015/08/weirdly-its-almost-the-same-color-as-money).
