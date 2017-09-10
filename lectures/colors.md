@@ -174,7 +174,7 @@ Here are some tools for generating style guides in code:
 * [Moodboard Generator](http://www.gomoodboard.com/)
 * [Document CSS](http://documentcss.com/)
 * [Living StyleGuide (SASS/Markdown)](http://livingstyleguide.org/)
-* [Tapestry Pattern Library](http://demos.pebbleroad.com/tapestry/)
+* [Tapestry Pattern Library](http://demos.pebbleroad.com/tapestry/src/#!/)
 * [Poor mans style guide](http://www.poormansstyleguide.com/)
 * [Source.JS, node styleguide generator](http://sourcejs.com/)
 * [Styleguide.io Resources](http://styleguides.io/)

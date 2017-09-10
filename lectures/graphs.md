@@ -41,7 +41,6 @@ It should be noted that [this definition of graph](https://en.wikipedia.org/wiki
 Think about difference Facebook Graph Visualizations:
 
 * [NEXUS Friend Grapher](http://nexus.ludios.net/)
-* [Thomas Fletcher's Friend Wheel](http://thomas-fletcher.com/friendwheel/)
 
 ##### Anatomy of a Graph
 
@@ -71,7 +70,7 @@ You can source graph data in a few places, but you might just want to make your 
 * Facebook Graph Data [Download](http://cyborganthropology.com/How_to_Download_Facebook_a_Social_Graph_with_NameGenWeb) | [Graph API](https://developers.facebook.com/docs/graph-api) | [Graph Explorers](http://mrcoles.com/blog/exploring-facebook-graph-api-data/)
 * [Google Public Data Directory](https://www.google.com/publicdata/directory)
 * Les Miserables [Character Connections]()
-* Gexf [Sample Datasets](http://gexf.net/format/datasets.html)
+* Gexf [Sample Datasets](https://gephi.org/gexf/format/datasets.html)
 * Middle Eastern [Country Relationships](http://bit.ly/KIB_MiddleEast)
 
 ##### Examples and Formats
@@ -181,7 +180,6 @@ There are loads of bl.ocks made for Graph information should you want to use D3,
 * [Force-directed Graph Demo](http://bl.ocks.org/mbostock/4062045)
 * [Expand/collapse force layout](http://bl.ocks.org/mbostock/1093130)
 * [Weighted Collapsable Force Layout](http://bl.ocks.org/mbostock/1062288)
-* [Tarot Card Reader?](http://tarot-pedia.meteor.com/)
 
 #### Resources
 

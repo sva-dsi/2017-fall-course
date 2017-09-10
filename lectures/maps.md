@@ -33,7 +33,7 @@ Find this document here:
 		+ Node
 		+ R
 5. Building A Narrative
-	+ Case Study 1: [NYC Building Choropleth Map](http://cdb.io/1Nvepxt)
+	+ Case Study 1: [NYC Building Choropleth Map](https://auremoser.carto.com/builder/6ed6133a-8f5a-11e6-b82e-0ecd1babdde5/embed)
 	+ Case Study 2: [NYC Bikelane Category Map](http://cdb.io/1J4MvVW)
 	+ Cast Study 3: [Multivariate Data Map App](http://bikestorming.com/)
 	+ Tell Time/Stories: Odyssey + Torque
@@ -461,7 +461,7 @@ Use Kyle Walker's [R2CartoDB](https://rpubs.com/walkerke/r2cartodb) project to c
 
 ### Building a Narrative
 
-#### Case Study 1: [NYC Building Choropleth Map](http://cdb.io/1Nvepxt)
+#### Case Study 1: [NYC Building Choropleth Map](https://auremoser.carto.com/builder/6ed6133a-8f5a-11e6-b82e-0ecd1babdde5/embed)
 
 The data folder includes some point (libraries), line (bikelanes), and polygons (building footprints) for NYC. You can make a map with any one of these, or a dataset of your choosing.
 
@@ -499,9 +499,9 @@ Let's try the Building Footprint Data, making something like [this](http://cdb.i
 
 Let's try the Bikelane Data, making something like [this](http://cdb.io/1J4MvVW).
 
-* Go to the [Class Repo](https://github.com/auremoser/web-coding/tree/master/_practice/data)
+* Go to the [Class Repo](https://github.com/sva-dsi/2017-fall-course/tree/master/practice/data)
 * Clone the repository to access the biklane data
-* Upload it to CartoDB
+* Upload it to Carto
 
 **EXPLORE THE DATA**
 
@@ -527,8 +527,8 @@ You can publish your map as is via the "Share" button in the interface, but if y
 
 In the [class repo](https://github.com/auremoser/web-coding/tree/master/_practice/maps), you'll find a template for making your map as a site online:
 
-* [index.html](https://github.com/auremoser/web-coding/blob/master/_practice/maps/index.html): setting up your map div and canvas
-* [main.js](https://github.com/auremoser/web-coding/blob/master/_practice/maps/main.js): pulling in your basemap, cartodb feature layers and other details
+* [index.html](https://github.com/sva-dsi/2017-fall-course/blob/master/practice/maps/index.html): setting up your map div and canvas
+* [main.js](https://github.com/sva-dsi/2017-fall-course/blob/master/practice/maps/main.js): pulling in your basemap, cartodb feature layers and other details
 
 If you run this locally, you'll get a map that looks like this:
 
@@ -536,13 +536,7 @@ If you run this locally, you'll get a map that looks like this:
 
 Here's an example of [BikeData from Madrid](http://bl.ocks.org/auremoser/6e984c0ff866e04686c8) modified with SQL and hosted on Github.
 
-When you upload your data, my co-worker worked on a little tool to study your dataset and suggest "interesting maps" to you in the GUI, to aid in your exploration of the tool. It'll be a little modal in the lower left corner and will produce demo maps with pre-fab SQL and CSS like this:
-
-![Pecan](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/bike-pecan.jpg)
-
-Likewise, here's a demo of how to create selectors that reload data in CartoDB: <http://bl.ocks.org/ohasselblad/e5e438b4e83a4c1d12e9>
-
-#### Cast Study 3: [Multivariate Data Map App](http://bikestorming.com/)
+#### Cast Study 3: [Multivariate Data Map App](https://twitter.com/bikestorming?lang=en)
 Bikestorming is a mobile app for urban cycling built with open data on CartoDB with MapBox Baselayers. They extract from public and social data sources to build both the iOS app and their open data portal for bike info.
 
 ![Bkx Data Store](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/bkx-profile.jpg)
@@ -597,7 +591,7 @@ Type | Title | Link/Demo | BlogPost
 [Highcharts](http://www.highcharts.com/) | Sensor Data  | [Github](https://github.com/auremoser/VitalSigns-water/) / [Demo](http://auremoser.github.io/VitalSigns-water/)  | [MOW Post](https://carto.com/blog/map-of-the-week-pulse-plotting/)
 [Highcharts](http://www.highcharts.com/) | Weather Data | [Aurelia's Block](http://bl.ocks.org/auremoser/96b70f6dbcc724ecc973) | [Tutorial](https://stackedit.io/viewer#!provider=gist&gistId=e2d4f0f0b71f258f3ac9&filename=beirut.md)
 [Chart.js](http://www.chartjs.org/) Line Graph | Tornado Data  | [Andrew's Block](http://bl.ocks.org/andrewxhill/9134155)
-[Plot.ly](https://plot.ly/) | Earthquake Data  | [Plotly Tutorial](https://plot.ly/ipython-notebooks/cartodb/) | [CartoDB Blog](http://blog.cartodb.com/plotly/)
+[Plot.ly](https://plot.ly/) | Earthquake Data  | [Plotly Tutorial](https://plot.ly/ipython-notebooks/cartodb/) | [CartoDB Blog](https://carto.com/blog/plotly/)
 
 ### Resources
 
