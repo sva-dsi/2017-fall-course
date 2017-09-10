@@ -495,9 +495,9 @@ Let's try the Building Footprint Data, making something like [this](http://cdb.i
 
 ![Pluto Legend](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/pluto-legend.jpg)
 
-#### Case Study 2: [NYC Bikelane Category Map](http://cdb.io/1J4MvVW)
+#### Case Study 2: [NYC Bikelane Category Map](https://auremoser.carto.com/builder/491805b6-95c8-11e7-82c9-0e13ef3858cc/embed)
 
-Let's try the Bikelane Data, making something like [this](http://cdb.io/1J4MvVW).
+Let's try the Bikelane Data, making something like [this](https://auremoser.carto.com/builder/491805b6-95c8-11e7-82c9-0e13ef3858cc/embed).
 
 * Go to the [Class Repo](https://github.com/sva-dsi/2017-fall-course/tree/master/practice/data)
 * Clone the repository to access the biklane data
@@ -505,23 +505,23 @@ Let's try the Bikelane Data, making something like [this](http://cdb.io/1J4MvVW)
 
 **EXPLORE THE DATA**
 
-![Bike Data](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/bike-d.jpg)
+![Bike Data](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/bike-data.png)
 
 **CHANGE YOUR BASEMAP**
 
-![Bike Basemap](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/bike-basemap.jpg)
+![Bike Basemap](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/bike-base.png)
 
 **MAKE A CATEGORY MAP IN THE WIZARD**
 
-![Bike Editor](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/bike-wizard.jpg)
+![Bike Editor](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/bike-style-cat.png)
 
 **STYLE IT WITH CARTOCSS**
 
-![Bike CSS](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/bike-css.jpg)
+![Bike CSS](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/bike-css.png)
 
 **CREATE TOOLTIPS AND LEGENDS**
 
-![Bike Info](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/bike-legend.jpg)
+![Bike Info](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/bike-tool.png)
 
 You can publish your map as is via the "Share" button in the interface, but if you would like to build a more custom version you can use the JS libraries and APIs mentioned above, and use CartoDB as your Data Store.
 
