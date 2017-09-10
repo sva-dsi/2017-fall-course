@@ -201,7 +201,7 @@ He's worked on interactive projects like:
 Continue to practice your fluency in Github commands with this online interactive tutorial.
 
 * [Code School Interactive Git Tutorial](https://try.github.io/levels/1/challenges/1).
-* [On Demand Tutorials for Github](https://github.github.com/on-demand/intro-to-github/)
+* [On Demand Tutorials for Github](https://services.github.com/on-demand/intro-to-github/)
 * [Visual Guide to Git Branching](http://pcottle.github.io/learnGitBranching/).
 
 Finish the exercises on the Basics of HTML/CSS [Practice Site](http://webdive.ktam.org/web/basics).
@@ -275,7 +275,7 @@ This syllabus is written in markdown. You can study how it's made by looking at 
 * Learn CSS Layout, [Practic Site](http://learnlayout.com/)
 * Howe, S., [Learn to Code: HTML/CSS](http://learn.shayhowe.com/)
 * Tam, K., HTML/CSS [Practice Site](http://webdive.ktam.org/web/basics)
-* [Visdown: Visualization Markdown](http://visdown.amitkaps.com/)
+* [Visdown: Visualization Markdown](http://visdown.com/)
 
 
 Optionally, you can also go over some of the basics of HTML/CSS and web pages with [this Khan Academy course](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro), it will take an hour max.
@@ -305,7 +305,7 @@ What is data-driven development and what kind of stories can it help us convey? 
 
 **Interactive to Inspire**: 
 
-* NYTimes (2014), [_Guantanamo: A History of the Detainee Population_](http://projects.nytimes.com/guantanamo). Other visualizations have been built using [these same data](https://braid.io/tile/guantanamo-bay-detainees#all).
+* NYTimes (2014), [_Guantanamo: A History of the Detainee Population_](http://projects.nytimes.com/guantanamo).
 
 **Other interactives this week**:
 
@@ -324,7 +324,7 @@ The following are mostly data resources, feel free to use them for the assignmen
 * Journalism Tools, [_Data Analysis, Scraping + Resources_](https://www.pinterest.com/journalismtools/data-analysis-scraping-resources/).
 * Journalism.org, [_Datasets_](http://www.journalism.org/datasets/pages/2/).
 * Knight Center for Journalism, [_Data Visualization Resources and Ideas_](http://www.mulinblog.com/data-visualization-resources-and-ideas/).
-* Moser, A. + friends, [_Federal datasets_](https://etherpad.mozilla.org/fed-data)
+* Moser, A. + friends, [_Federal datasets_](https://old.etherpad-mozilla.org/fed-data)
 * Pitts, R., [_Journalists guide to datasets_](https://github.com/ryanpitts/journalists-guide-datasets).
 * [Awesome list of open access datasets](https://github.com/caesar0301/awesome-public-datasets)
 
@@ -381,7 +381,7 @@ She'll be talking about how to use Github to publish, host and render your code.
 #### READINGS:
 * Today's Slides: 
 	* [Web HTML](https://auremoser.github.io/web-html/#/)
-	* [Web JS](https://auremoser.github.io/web-intro-js)
+	* [Web JS](http://aureliamoser.com/web-intro-js/class1.html#/)
 * Dormehl, L., [_The 5 Best Libraries for Data Visualization_](http://www.fastcompany.com/3029760/the-five-best-libraries-for-building-data-vizualizations)
 * [Open Processing](http://openprocessing.org/)
 * Processing.org, [Learning Tutorials](https://processing.org/tutorials/)
@@ -404,7 +404,7 @@ Try practicing some code with Processing or Visdown, other languages for visuali
 Review the [Processing Hour Of Code](http://hello.processing.org/editor/) exercise (1 hr long), don't feel compelled to spend the whole hour, just skim the video for the components of processing that interest you.
 
 Other resources that might be useful to you:
-* [Visdown](http://visdown.amitkaps.com/)
+* [Visdown](http://visdown.com/)
 * [P5 JS lessons](https://github.com/processing/p5.js/wiki/Education)
 * [Introduction to P5 JS](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
 * [Coding Rainbow](http://codingrainbow.com/)
@@ -449,7 +449,7 @@ He's worked on interactive projects like:
 
 #### READINGS:
 * Today's Slides: 
-	* [Francis' presentation](http://frnsys.com/talks/sva/)
+	* [Francis' presentation](https://frnsys.com/talks/)
 	* [Time Series Workshop](https://github.com/sva-dsi/2017-fall-course/blob/master/lectures/charts.md)
 	* [Web JS](https://auremoser.github.io/web-intro-js/class1.html#/)
 * Bladt, J. and B. Filbin, [_Data Scientists' real job: storytelling_](https://hbr.org/2013/03/a-data-scientists-real-job-sto).
@@ -501,7 +501,7 @@ He's worked on interactive projects like:
 * Today's Slides: 
 	* [Signup link for Carto](https://carto.com/signup?plan=academy)
 	* [Mapping Basics](https://github.com/sva-dsi/2017-fall-course/blob/master/lectures/maps.md)
-	* [Andy's slides]()
+	* [Andy's slides](https://gist.github.com/andy-esch/a21a6d59d9b6525d182bcb4aa9d07843)
 	* [Web JS](https://auremoser.github.io/web-intro-js/class1.html#/)
 
 * Larson, J., [_Anatomy of a News Map_](https://www.propublica.org/nerds/item/anatomy-of-a-news-map).
@@ -513,7 +513,7 @@ He's worked on interactive projects like:
 **Check these out**:
 
 * Eschbacher, A., [_Map Academy_](https://carto.com/academy/).
-* Hurt, A. et al., [_Disputed Territories_](http://opennews.kzhu.io/map-disputes/). [Github](https://github.com/alykat/map-disputes).
+* Hurt, A. et al., [_Disputed Territories_](https://source.opennews.org/articles/meet-disputed-territories-and-ssn-redactor/). [Github](https://github.com/alykat/map-disputes).
 * [Radical Cartography](http://radicalcartography.net/).
 
 #### PRACTICE
@@ -521,13 +521,13 @@ He's worked on interactive projects like:
 
 Here is [an example using Carto.JS for a Census tract visualization of water quantity](http://bl.ocks.org/auremoser/f27ed862a4aaf664c31f).
 
-Here is a [more complex example with button selectors for exploring data and reloading layers](http://bl.ocks.org/ohasselblad/e5e438b4e83a4c1d12e9).
+Here is a [more complex example with button selectors for exploring data and reloading layers](http://bl.ocks.org/andy-esch/e5e438b4e83a4c1d12e9).
 
 Try to modify the code the match your own data and integrate your practice into the assignment below.
 
 If that seems overwhelming, try to follow these tutorials instead:
 
-* **Tutorial**: [Creating your first map with Carto.JS](https://carto.com/docs/tutorials/create_map_cartodbjs/).
+* **Tutorial**: [Creating your first map with Carto.JS](https://carto.com/learn/guides).
 * **Map Academy**: [Online mapping for beginners](https://carto.com/academy/courses/beginners-course/)
 * **Map Academy**: [Carto.JS](https://carto.com/academy/courses/cartojs-ground-up/)
 
@@ -601,7 +601,7 @@ Color and mood are important to visualizations and the general legibility of you
 	* [Color Lesson](https://github.com/sva-dsi/2017-fall-course/blob/master/lectures/colors.md)
 	* [Web JS - 2](https://auremoser.github.io/web-intro-js/class2.html#/)
 
-* Huval, R., [_The Color of Disruption_](http://www.theawl.com/2015/08/weirdly-its-almost-the-same-color-as-money).
+* Huval, R., [_The Color of Disruption_](https://www.theawl.com/2015/08/the-color-of-disruption/).
 * Kemery, A., [_StoryBoarding your data visualizations_](http://annkemery.com/storyboarding).
 * Lin, M., [_A color palette optimized for data visualization_](http://www.mulinblog.com/a-color-palette-optimized-for-data-visualization/).
 
@@ -612,7 +612,7 @@ Color and mood are important to visualizations and the general legibility of you
 #### ASSIGNMENT
 Make a few sketches of the data visualizations that might suit your project, take a photo of those sketches and create a style guide or swatch board (with color palette, fonts, layout indications) in a gist. These can build on your prototype time-series, mapping, or graph visualizations from previous weeks, but should reflect your "ideal" layout and not be limited to what you were able to accomplish in previous weeks.
 
-It doesn't have to be as detailed as [this one](http://design.sunlightlabs.com/projects/Sunlight-StyleGuide-DataViz.pdf) but it should have a few main sections:
+It doesn't have to be as detailed as [this one](https://sunlightfoundation.com/2014/03/12/datavizguide/) but it should have a few main sections:
 
 * Colors (hex values chosen)
 * Fonts

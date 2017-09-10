@@ -89,7 +89,7 @@ Source: [Traffic Change Data for SF](https://publicdata-transit.firebaseio.com/s
 
 [![Realtime Earthquake Map](http://i.imgur.com/n5pVfee.png)](https://team.cartodb.com/u/eschbacher/viz/8075e1f2-33c5-11e5-bd0a-0e4fddd5de28/embed_map)
 
-Source: [Andy's Earthquake Workshop](https://gist.github.com/ohasselblad/4c6b8dc877dc6c870322)
+Source: [Andy's Earthquake Workshop](https://gist.github.com/andy-esch/4c6b8dc877dc6c870322)
 
 **DATA SEARCH TOOLS**
 ![GDELT Geographic News Search Tool](https://raw.githubusercontent.com/auremoser/140realtime/master/img/gdelt.jpg)
@@ -195,11 +195,11 @@ Notes:
 ![NYC Pluto Downloader](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/pluto.jpg)
 
 
-There are lots of geospatial data formats that may or may not be easy to parse. Here's [a short list](http://docs.cartodb.com/cartodb-editor.html#supported-file-formats) of ones that are commonly imported into CartoDB.
+There are lots of geospatial data formats that may or may not be easy to parse. Here's [a short list](https://carto.com/docs/carto-editor/datasets/#supported-geospatial-data-formats) of ones that are commonly imported into CartoDB.
 
 #### Case Study 1: Libraries!
 
-So let's take a look at this library data. You want to lead people to all of the libraries in NYC. You can use the kml file [here in the data folder](https://github.com/auremoser/web-coding/tree/master/_practice/data/libraries.kml).
+So let's take a look at this library data. You want to lead people to all of the libraries in NYC. You can use the kml file [here in the data folder](https://github.com/sva-dsi/2017-fall-course/blob/master/practice/data/libraries.kml).
 
 You can get the libraries from OSM or NYC Open Data but let's go with the KML from OSM that we extracted with OverPass.
 
@@ -245,7 +245,7 @@ There are loads of ways to approach a map here are a few approaches to mapping t
 
 #### Map Making Exercise
 
-We can make a map with the libraries data, or other data in the [gdi data folder](https://github.com/auremoser/web-coding/tree/master/_practice/data) for this workshop.
+We can make a map with the libraries data, or other data in the [data folder](https://github.com/sva-dsi/2017-fall-course/blob/master/practice/data/) for this workshop.
 
 **Using Google Maps**
 
@@ -277,7 +277,7 @@ explore changing the map features if you would like
 
 You can also make a map from scratch using Leaflet.js (http://leafletjs.com/) to attach a set of points to a map made of tiles provided by OpenStreetMap.
 
-You will first need to convert your kml file into GeoJSON (although I have both in the [data folder](https://github.com/auremoser/web-coding/tree/master/_practice/data)) for this workshop.
+You will first need to convert your kml file into GeoJSON (although I have both in the [data folder](https://github.com/sva-dsi/2017-fall-course/blob/master/practice/data/)) for this workshop.
 
 GeoJSON is a file format that is easily digestable by JavaScript. If you have a data format (shp, kml) that is not geojson you can convert it to the right format for your code with [GeoJSON.io](http://geojson.io/)/
 
@@ -314,7 +314,7 @@ GeoJSON is a file format that is easily digestable by JavaScript. If you have a 
 ```
 
 * after the map is drawn, from the menu *Save*, select *GeoJSON"
-* refer to "Adding GeoJSON to Leaflet with Link Relations" : http://lyzidiamond.com/posts/osgeo-august-meeting/ to find the HTML that use can use as a template that will import GeoJSON into a map created by Leaflet.js
+* refer to "Adding GeoJSON to Leaflet with Link Relations" : <http://lyzidiamond.com/posts/osgeo-august-meeting> to find the HTML that use can use as a template that will import GeoJSON into a map created by Leaflet.js
 * use *http://{s}.tile.osm.org/{z}/{x}/{y}.png* for your map tiles
 * use libraries.geojson for your geojson layer: https://github.com/auremoser/gdi-webmap/blob/master/libraries.geojson
 * explore changing the map features if you would like using Leaflet.js: http://leafletjs.com/
@@ -323,7 +323,7 @@ GeoJSON is a file format that is easily digestable by JavaScript. If you have a 
 + [Alcatraz Escape Revisited](http://www.washingtonpost.com/news/morning-mix/wp/2014/12/15/the-alcatraz-escapees-could-have-survived-and-this-interactive-model-proves-it/)
 + [LA Sheriff Election Results](http://graphics.latimes.com/2014-la-sheriff-primary-map/)
 + [Starwars Galaxy Map](http://www.swgalaxymap.com/)
-+ [Demonstrations in Brazil](http://blog.cartodb.com/mapping-the-world-ongoing-demonstrations-in-brazil/)
++ [Demonstrations in Brazil](https://carto.com/blog/mapping-the-world-ongoing-demonstrations-in-brazil/)
 + [Global Forest Watch](http://www.globalforestwatch.org/map/3/15.00/27.00/ALL/grayscale/loss,forestgain?begin=2001-01-01&end=2013-12-31&threshold=30)
 + [Urban Reviewer](http://www.urbanreviewer.org/#map=12/40.7400/-73.9998&sidebar=plans)
 
@@ -341,19 +341,19 @@ We'll use CartoDB for the subsequent exercises because of it's flexibility, supp
 ![int-share](https://raw.githubusercontent.com/auremoser/nicar-test/master/img/int-share.jpg)
 
 #### APIs / JS Libs
-You can read more about the [CartoDB APIs and JS Library here](http://docs.cartodb.com/cartodb-platform.html)
+You can read more about the [CartoDB APIs and JS Library here](https://carto.com/docs/)
 
-* [CartoJS](http://docs.cartodb.com/cartodb-platform/cartodb-js.html) - JS library for interacting with CartoDB
-* [Maps API](http://docs.cartodb.com/cartodb-platform/maps-api.html) - generate public/private maps with data hosted on your CDB account
-* [SQL API](http://docs.cartodb.com/cartodb-platform/sql-api.html) - run sql in your code to dynamically filter/request/query your mapped data stored in CartoDB via http calls
-* [Import API](http://docs.cartodb.com/cartodb-platform/import-api.html) - push data to your CartoDB Account
+* [CartoJS](https://carto.com/docs/carto-engine/carto-js/) - JS library for interacting with CartoDB
+* [Maps API](https://carto.com/docs/carto-engine/maps-api/) - generate public/private maps with data hosted on your CDB account
+* [SQL API](https://carto.com/docs/carto-engine/sql-api/) - run sql in your code to dynamically filter/request/query your mapped data stored in CartoDB via http calls
+* [Import API](https://carto.com/docs/carto-engine/import-api/) - push data to your CartoDB Account
 
 #### Data Import + Sync Tables
 
 **Geospatial data** is info that ids a geolocation and its characteristic features/frontiers, typically represented by points, lines, polygons, and/or complex geographic features.
 
 **Issues:**
-+ Comes in multiple formats ([supported formats for CartoDB](http://docs.cartodb.com/cartodb-editor.html#supported-file-formats))
++ Comes in multiple formats ([supported formats for Carto](https://carto.com/docs/carto-editor/datasets/#supported-geospatial-data-formats))
 + Sources uncertain
 + Contains errors
 + etc.
@@ -382,11 +382,11 @@ If you want to run SQL commands and see your map update, make sure to `SELECT` t
 
 ![Sync Tables](https://raw.githubusercontent.com/auremoser/140realtime/master/img/sync.png)
 
-The Editor is especially setup to process realtime data updates via [sync tables](http://blog.cartodb.com/synced-tables-create-real-time-maps-from-data-anywhere/).
+The Editor is especially setup to process realtime data updates via [sync tables](https://carto.com/blog/synced-tables-create-real-time-maps-from-data-anywhere/).
 
 You can import data that lives online via a URL, and set it to pull and update your map at regular intervals.
 
-Check the [file types supported](http://docs.cartodb.com/cartodb-editor.html#supported-file-formats) in sync tables; keep in mind that it also works with dropbox + google drive.
+Check the [file types supported](https://carto.com/docs/carto-editor/datasets/#supported-geospatial-data-formats) in sync tables; keep in mind that it also works with dropbox + google drive.
 
 Notes:
 
@@ -550,13 +550,9 @@ Bikestorming is a mobile app for urban cycling built with open data on CartoDB w
 
 Outside of the CartoJS library, we have others to help you build dynamic narrative with your data.
 
-**Maps that tell Time** - **[Torque](http://docs.cartodb.com/tutorials/introduction_torque.html)**
+**Maps that tell Time** - **[Torque](https://carto.com/torque/)**
 
 ![Realtime Traffic Map](https://raw.githubusercontent.com/auremoser/140realtime/master/img/muni-animated.gif)
-
-Source: [Traffic Change Data for SF](https://publicdata-transit.firebaseio.com/sf-muni)
-Demo: [Municipal Traffic in SF App](http://track-sf-muni.cartodb.io/)
-Blog: [CartoDB + Firebase](https://www.firebase.com/blog/2015-04-10-realtime-maps-cartodb-firebase.html)
 
 1. [Demonstrations in Brazil](http://blog.cartodb.com/mapping-the-world-ongoing-demonstrations-in-brazil/)
 2. [Animal migration patterns](http://robbykraft.github.io/AnimalTrack/)
@@ -571,7 +567,7 @@ Blog: [CartoDB + Firebase](https://www.firebase.com/blog/2015-04-10-realtime-map
 
 1. [*Al Jazeera*: Israeli-Palestinian Conflict by Tweets](http://stream.aljazeera.com/projects/socialmediaconversation/)
 2. [The Sounds of 11M](http://www.cadenaser.com/sonidos-11m/)
-3. [Berlin Wall Historic Tour](http://bl.ocks.org/namessanti/raw/d5cf706f68b7c6dce9a3/#3)
+3. [Berlin Wall Historic Tour](http://bl.ocks.org/namessanti/e7432a85159fca12978e)
 
 #### Partner Graphics: Graphs + Charts
 
@@ -581,7 +577,7 @@ You can easily wire up a chart of pollution data for example, set it as a sync t
 
 ![chart](https://raw.githubusercontent.com/auremoser/hasadna/master/img/7-chart.jpg)
 
-Learn more about it [here](http://docs.cartodb.com/tips-and-tricks.html#charts--graphs)!
+Learn more about it [here](https://carto.com/docs/tips-and-tricks/charts-and-graphs/)!
 
 Here are some examples:
 
@@ -600,18 +596,18 @@ Type | Title | Link/Demo | BlogPost
 #### GeoSpatial Data
 
 1. [Local Data Resources](http://bit.ly/nyc-data-resources)
-2. [National Data Resources](https://etherpad.mozilla.org/fed-data)
+2. [National Data Resources](https://old.etherpad-mozilla.org/fed-data)
 
 #### Mapping + CartoDB
 
-1. [Map Academy](http://academy.cartodb.com)
-    + [CartoDB.js](http://academy.cartodb.com/courses/03-cartodbjs-ground-up/lesson-3.html) -- build a web app to visualize your data, allowing for user interaction
-	+ [SQL and PostGIS](http://academy.cartodb.com/courses/04-sql-postgis.html)
-2. [CartoDB Tutorials](http://docs.cartodb.com/tutorials.html)
-3. [CartoDB Editor Documentation](http://docs.cartodb.com/cartodb-editor.html)
-4. [CartoDB APIs](http://docs.cartodb.com/cartodb-platform.html)
+1. [Map Academy](https://carto.com/academy/)
+    + [CartoDB.js](https://carto.com/academy/courses/cartojs-ground-up/) -- build a web app to visualize your data, allowing for user interaction
+	+ [SQL and PostGIS](https://carto.com/academy/courses/sql-postgis/)
+2. [CartoDB Tutorials](https://carto.com/docs/tutorials/)
+3. [CartoDB Editor Documentation](https://carto.com/docs/carto-editor/)
+4. [CartoDB APIs](https://carto.com/docs/)
 5. [Community help on StackExchange](http://gis.stackexchange.com/questions/tagged/cartodb)
-6. [CartoDB Map Gallery](http://cartodb.com/gallery/)
+6. [CartoDB Map Gallery](https://carto.com/gallery/)
 7. [CartoDB Bootstrap Template by Chris Wong](https://github.com/chriswhong/cartodb-github-template)
 8. [Listing of Map Data Formats](http://gisgeography.com/gis-formats/)
 
