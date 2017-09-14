@@ -371,11 +371,11 @@ Link to the datasets if they are available online, if not, explain how you inten
 
 This week kicks off our visualization series, we'll be exploring more HTML/CSS and some prototyping tools. And you'll also be able to play with Processing among other creative languages for data visualization. We'll feature a guest talk from Rachel Berry as well, on how to use Github to deploy your projects.
 
-#### [Rachel Berry](https://github.com/cmrberry), Github
+#### [Alejandro Figueroa](https://github.com/thejandroman), Github
 
-Rachel is an Analytics Engineer at Github.
+Alejandro is an Engineer at Github.
 
-She'll be talking about how to use Github to publish, host and render your code.
+He'll be talking about how to use Github to publish, host and render your code.
 
 
 #### READINGS:
