@@ -257,11 +257,10 @@ She's worked on interactive projects like:
 	* [Web Github](https://auremoser.github.io/web-github/)
 	* [Web HTML](https://auremoser.github.io/web-html/#/)
 * Bengfort, B., [_Markup for Fast Data Science Publication_](https://districtdatalabs.silvrback.com/markup-for-fast-data-science-publication).
-* Kiss, J. and Arthur, C., [_Publishers or platforms? Media giants may be forced to choose_](http://www.theguardian.com/technology/2013/jul/29/twitter-urged-responsible-online-abuse).
 
 **OPTIONAL READINGS**:
 
-* Aaker, J., [_Persuasion and the power of the story_](http://futureofstorytelling.org/video/persuasion-and-the-power-of-story/).
+* Aaker, J., [_Persuasion and the power of the story_](https://www.youtube.com/watch?v=AL-PAzrpqUQ).
 * Kaufman, L., [_Bombings trip up Reddit in its turn in spotlight_](http://www.nytimes.com/2013/04/29/business/media/bombings-trip-up-reddit-in-its-turn-in-spotlight.html?pagewanted=all&_r=0).
 * Kirk, A., [_Storytelling and success stories_](http://www.visualisingdata.com/2013/04/discussion-storytelling-and-success-stories/).
 
@@ -269,10 +268,12 @@ She's worked on interactive projects like:
 #### PRACTICE
 Try to setup up a bl.ocks account based on your gists (the first few assignments for this course should suffice). Bl.ocks accounts like [mine](http://bl.ocks.org/auremoser) are based on gists, so you're already on your way to having an online interactive portfolio, yay! You can see blocks in action in today's Interactive to Inspire above, which links to the [raw version of the interactive](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/) as well as [the code](http://bl.ocks.org/anonymous/2f1e9a5a74ceeb88e977) (if you remove the `raw` in the URL).
 
-This syllabus is written in markdown. You can study how it's made by looking at the format and the rendered version. Click on `RAW` (a button) in the Github view to compare, copy the raw text into [Mou](http://25.io/mou/) and view the side-by-side comparison.
+This syllabus is written in markdown. You can study how it's made by looking at the format and the rendered version. Click on `Open` (a blue link) in the Github view to compare, copy the raw text into [Mou](http://25.io/mou/) and view the side-by-side comparison.
+
+Instructions for making a Block are in the first link below, and there are many links with helpful practice exercises below
 
 * Bostock, M., [_Let's make a block_](http://bost.ocks.org/mike/block/)
-* Learn CSS Layout, [Practic Site](http://learnlayout.com/)
+* Learn CSS Layout, [Practice Site](http://learnlayout.com/)
 * Howe, S., [Learn to Code: HTML/CSS](http://learn.shayhowe.com/)
 * Tam, K., HTML/CSS [Practice Site](http://webdive.ktam.org/web/basics)
 * [Visdown: Visualization Markdown](http://visdown.com/)
@@ -282,16 +283,16 @@ Optionally, you can also go over some of the basics of HTML/CSS and web pages wi
 
 
 #### ASSIGNMENT
-Take a look at the following platforms for citizen journalism and community activism, consider the merits of each and choose one to profile. Explain in a few paragraphs why it appeals to you, what you might use it for, and describe how you tested it to confirm. Propose another method of self-publishing, inspiring change or soliciting grassroots opinion if you find none of these satisfactory, and explain why it seems superior.
+Take a look at the following platforms for citizen journalism and community activism, consider the merits of each and choose one to profile. Explain in a paragraphs why it appeals to you, what you might use it for, and describe how you tested it to confirm. Propose another method of self-publishing, inspiring change or soliciting grassroots opinion if you find none of these satisfactory, and explain why it seems superior. You'll be self-publishing your final projects, so thinking about how people combine graphics and analysis in their own platforms or via ones hosted elsewhere is important.
 
 * [Reportedly](https://medium.com/reportedly/welcome-to-reported-ly-3363a5fb7ea5)
 * [Beautiful Rising](https://beautifulrising.org/)
-* [Grasswire](https://gigaom.com/2014/05/16/grasswire-founder-austen-allred-is-trying-to-build-a-wikipedia-style-platform-for-real-time-news/)
+* [Grasswire](https://www.grasswire.com/) + [Reference article](https://gigaom.com/2014/05/16/grasswire-founder-austen-allred-is-trying-to-build-a-wikipedia-style-platform-for-real-time-news/)
 * [Bellingcat](https://www.bellingcat.com/)
 
-Consider the readings an try to incorporate some of the readings' content into your assessment of these different platforms.
+Use the rest of your time to work through one of the tutorials in the "practice" section above, and practice some HTML/CSS. 
 
-BONUS: link to your first bl.ock (see `practice` above). Write a sentence or two about how you might incorporate blocks into a larger narrative, or an interactive piece.
+**BONUS:** link to your first bl.ock (see `practice` above). Write a sentence or two about how you might incorporate blocks into a larger narrative, or an interactive piece.
 
 ## 9/28/17
 
