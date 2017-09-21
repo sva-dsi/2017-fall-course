@@ -292,7 +292,7 @@ Take a look at the following platforms for citizen journalism and community acti
 
 Use the rest of your time to work through one of the tutorials in the "practice" section above, and practice some HTML/CSS. 
 
-**BONUS:** link to your first bl.ock (see `practice` above). Write a sentence or two about how you might incorporate blocks into a larger narrative, or an interactive piece.
+**BONUS:** link to your first bl.ock (see "practice" above). Write a sentence or two about how you might incorporate blocks into a larger narrative, or an interactive piece.
 
 ## 9/28/17
 
