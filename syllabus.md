@@ -98,7 +98,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 |  1   |  09/07  | Read the syllabus  | X | |
 |  2   |  09/14  | Critique an interactive  | X | GUEST: Daniel Goddemeyer |
 |  3   |  09/21  | Comparing interactives  | X | GUEST: Caroline Sinders |
-|  4   |  09/28  | Evaluating platforms + Versioning  | X | REMOTE CLASS |
+|  4   |  09/28  | Evaluating platforms + Versioning  | X | NO CLASS |
 |  5   |  10/05  | Dataset selection | X | GUEST: Alejandro Figueroa |
 |  6   |  10/12  | Practice HTML/CSS  | X | GUEST: Francis Tseng |
 |  7   |  10/19  | **Prototype 1**: Time-Series/Stats  | X | GUEST: Andy Eschbacher |
@@ -297,6 +297,8 @@ Use the rest of your time to work through one of the tutorials in the "practice"
 ## 9/28/17
 
 #### DATA-DRIVEN DEVELOPMENT
+
+##### NO CLASS TODAY (CHECK YOUR EMAIL FOR ASSIGNMENT 3 + COURSE UPDATES)
 
 >"Narrative can on the one hand be broken down into a set of universal laws and principles that may transcend mediums. Stories have temporality in common (they deal with time) as well as causation (they deal with cause and effect of something). On the other hand there are the more media specific narrative affordances as for example in the way that film, opera, novel and data visualisation – because of their physicality and the dimensions open to them – would be able to give a different ‘staging’ of a story." ~ C. Twigg
 
