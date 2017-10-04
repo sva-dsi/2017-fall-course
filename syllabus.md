@@ -372,7 +372,7 @@ Link to the datasets if they are available online, if not, explain how you inten
 
 * Ben Fry, [_Isometric Blocks_](http://benfry.com/isometricblocks/)
 
-This week kicks off our visualization series, we'll be exploring more HTML/CSS and some prototyping tools. And you'll also be able to play with Processing among other creative languages for data visualization. We'll feature a guest talk from Rachel Berry as well, on how to use Github to deploy your projects.
+This week kicks off our visualization series, we'll be exploring more HTML/CSS and some prototyping tools. And you'll also be able to play with Processing among other creative languages for data visualization. We'll feature a guest talk from Alejandro Figueroa as well, on how to use Github to deploy your projects.
 
 #### [Alejandro Figueroa](https://github.com/thejandroman), Github
 
@@ -383,7 +383,7 @@ He'll be talking about how to use Github to publish, host and render your code.
 
 #### READINGS:
 * Today's Slides: 
-	* [Web HTML](https://auremoser.github.io/web-html/#/)
+	* **review** [Web HTML](https://auremoser.github.io/web-html/#/)
 	* [Web JS](http://aureliamoser.com/web-intro-js/class1.html#/)
 * Dormehl, L., [_The 5 Best Libraries for Data Visualization_](http://www.fastcompany.com/3029760/the-five-best-libraries-for-building-data-vizualizations)
 * [Open Processing](http://openprocessing.org/)
@@ -414,7 +414,7 @@ Other resources that might be useful to you:
 
 #### ASSIGNMENT:
 
-Finish your comparison of the [Practice Files](https://github.com/auremoser/web-html/tree/master/practice/practice) and the [Completed Files](https://github.com/auremoser/web-html/tree/master/practice/completed) from last week's course, find **at least 3 things** that are different between the practice and completed files, and tell me what they do to the resulting website.
+Finish your comparison of the [Practice Files](https://github.com/sva-dsi/web-html/tree/master/practice/practice) and the [Completed Files](https://github.com/sva-dsi/web-html/tree/master/practice/completed) from last week's course, find **at least 3 things** that are different between the practice and completed files, and tell me what they do to the resulting website.
 
 Example:
 
