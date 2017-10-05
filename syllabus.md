@@ -383,6 +383,7 @@ He'll be talking about how to use Github to publish, host and render your code.
 
 #### READINGS:
 * Today's Slides: 
+	* Ale's [Github Pages Slides](https://www.dropbox.com/s/voa9h6bjwwhafy5/GitHub%20Pages.zip?dl=0)
 	* **review** [Web HTML](https://auremoser.github.io/web-html/#/)
 	* [Web JS](http://aureliamoser.com/web-intro-js/class1.html#/)
 * Dormehl, L., [_The 5 Best Libraries for Data Visualization_](http://www.fastcompany.com/3029760/the-five-best-libraries-for-building-data-vizualizations)
