@@ -441,7 +441,6 @@ This week continues our visualization series, we'll be exploring data sets for t
 * The Guardian, [_The Counted_](https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings).
 
 **Other interactives**:
-![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
 
 * Reuters Graphics, [_Journalism Deaths_](http://graphics.thomsonreuters.com/14/journalist-deaths/index.html).
 * The Guardian, [_Watch how the measles outbreak spread..._](http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated).
