@@ -434,12 +434,17 @@ Try using [these practice files](http://bl.ocks.org/auremoser/2302e34cf80b551235
 
 This week continues our visualization series, we'll be exploring data sets for time-series interactives and statistical charts/graphs. We'll feature a guest talk from Francis Tseng as well.
 
-
-![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
+![The Counted](https://raw.githubusercontent.com/auremoser/2017-fall-course/master/imgs/counted.png)
 
 **Interactive to Inspire**: 
 
+* The Guardian, [_The Counted_](https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings).
+
+**Other interactives**:
+![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
+
 * Reuters Graphics, [_Journalism Deaths_](http://graphics.thomsonreuters.com/14/journalist-deaths/index.html).
+* The Guardian, [_Watch how the measles outbreak spread..._](http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated).
 
 #### [Francis Tseng](http://frnsys.com/), NY Times, Coral Project, NEW Inc.
 
