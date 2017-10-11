@@ -455,7 +455,8 @@ He's worked on interactive projects like:
 * Today's Slides: 
 	* [Francis' presentation](https://frnsys.com/talks/)
 	* [Time Series Workshop](https://github.com/sva-dsi/2017-fall-course/blob/master/lectures/charts.md)
-	* [Web JS](https://auremoser.github.io/web-intro-js/class1.html#/)
+	* [Web JS - Class 1](http://aureliamoser.com/web-intro-js/class1.html#/17)
+	* [Web JS - Class 2](http://aureliamoser.com/web-intro-js/class2.html)
 * Bladt, J. and B. Filbin, [_Data Scientists' real job: storytelling_](https://hbr.org/2013/03/a-data-scientists-real-job-sto).
 * Carr, D., [_At the front lines, bearing witness in real time_](http://www.nytimes.com/2014/07/28/business/media/at-front-lines-bearing-witness-in-real-time.html?module=Search&mabReward=relbias%3Ar%2C%7B%221%22%3A%22RI%3A8%22%7D).
 * Dubakov, M., [_Visual Encoding_](http://www.targetprocess.com/articles/visual-encoding.html).
