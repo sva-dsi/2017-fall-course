@@ -1,7 +1,7 @@
 ## Intro to Time Series Data
 ### SVA-DSI
 ### [Metrics and Data Visualization I](http://dsi.sva.edu/course/metrics-and-data-visualization-i/)
-**October 10th, 2017**
+**October 12th, 2017**
 
 ![Journo Deaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
 
@@ -118,14 +118,14 @@ It provides a great overview of the process of coding, complete with debugging, 
 
 * [Quandl](https://www.quandl.com/) - the "wikipedia" of time-series data, they provide datasets and format parsers for conversion to what you need
 * [Data.gov](http://www.data.gov/) - almost every government/city has an "open data portal" intiative where you can download data of interest to you, and search through for differnt formats
-* [Federal Data Listing](https://etherpad.mozilla.org/fed-data)
+* [Federal Data Listing](https://old.etherpad-mozilla.org/fed-data)
 * [Enigma.io](http://enigma.io/) - loads more open data, larger datasets, and tools for correlating multple datasets
 * [NYC Open Data](https://nycopendata.socrata.com/) - loads of cities have "socrata" portals where you can download data
 * [NASA Data](https://data.nasa.gov/)
 * [IRE Database Library](https://www.ire.org/nicar/database-library/) - IRE also provides a lot of open data to investigative journos, along with data dictionaries telling you how to read it
 * [Humanitarian Data Exchange](https://data.humdata.org/) - data about crises, humanitarian effort, and aid globally
 
-For more complex datasets, there are guides online like the [Journalists' Guide to datsets](https://github.com/ryanpitts/journalists-guide-datasets) which help you parse and read commonly used but pretty obscure data releases from an investigative perspective.
+For more complex datasets, there are guides online like the [Journalists' Guide to Datasets](https://github.com/ryanpitts/journalists-guide-datasets) which help you parse and read commonly used but pretty obscure data releases from an investigative perspective.
 
 Likewise, some time-series data is not easy to find, and you have to request it from government agencies. If you would like to explore this, check out [FOIA Machine](https://www.foiamachine.org/). For the purposes of this class though, you might opt for something that's easier to find.
 
