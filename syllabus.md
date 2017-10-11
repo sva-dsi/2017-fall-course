@@ -434,7 +434,7 @@ Try using [these practice files](http://bl.ocks.org/auremoser/2302e34cf80b551235
 
 This week continues our visualization series, we'll be exploring data sets for time-series interactives and statistical charts/graphs. We'll feature a guest talk from Francis Tseng as well.
 
-![The Counted](https://raw.githubusercontent.com/auremoser/2017-fall-course/master/imgs/counted.png)
+![The Counted](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/counted.png)
 
 **Interactive to Inspire**: 
 
