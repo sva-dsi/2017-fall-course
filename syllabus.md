@@ -454,6 +454,7 @@ He's worked on interactive projects like:
 * [_Humans of Simulated NY_](http://frnsys.com/hosny/)
 * [_The Founder_](http://thefounder.biz/)
 * [_ML 101_](https://github.com/frnsys/ml101)
+* [_Speculating Futures Syllabus_](https://speculatingfutures.club/)
 
 #### READINGS:
 * Today's Slides: 
