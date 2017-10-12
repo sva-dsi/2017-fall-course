@@ -42,7 +42,7 @@ Find this document here:
 
 Take a look at it, and spend some time deciding which visualizations are most appropriate for the data you would like to work with in this course. You can sort by format and the function you desire in your resulting visualization.
 
-If you want to see how something is implemented, you might search for a library or language in [Nerdy Data](https://search.nerdydata.com/code), a search engine for source code. You can also use it to find out how your favorite technologies where built.
+If you want to see how something is implemented, you might search for a library or language in [Nerdy Data](https://nerdydata.com/search), a search engine for source code. You can also use it to find out how your favorite technologies where built.
 
 ![nerdydata](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/time/nerdy.jpg)
 
@@ -82,11 +82,11 @@ You can tell the format of a file by its extension, or the letters that follow t
   "height": 123,
   "tags": [
     "Teacher",
-    "Nerd"
+    "Geek"
   ],
   "students": {
-    "onsite": 16,
-    "remote": 4
+    "onsite": 23,
+    "remote": 0
   }
 }
 
@@ -189,7 +189,7 @@ Here is what the data looked like:
 
 ![](https://raw.githubusercontent.com/auremoser/images/master/ush-stacked-bar.png)
 
-What if I wanted to make it more dynamic/complex? I could try adapting it to [this](http://bl.ocks.org/mbostock/4679202). Usually when I want to try something new, I search through Mike Bostock's blocks for inspiration.
+What if I wanted to make it more dynamic/complex? I could try adapting it to [this](http://bl.ocks.org/mbostock/4679202). Usually, when I want to try something new, I search through Mike Bostock's blocks for inspiration.
 
 ### Building A Narrative
 
@@ -222,9 +222,8 @@ Here are some other charts and graphs that you can take a look at, not specifici
 
 Type | Title | Link/Demo | BlogPost
 ---- |------ | --------- | ---------
-[Chart.js](http://www.chartjs.org/) Bar Graph | Traffic Data| [Aurelia's Block](http://bl.ocks.org/auremoser/af95a29cd76267d3925e)
 [Highcharts](http://www.highcharts.com/) | Sensor Data  | [Github](https://github.com/auremoser/VitalSigns-water/) / [Demo](http://auremoser.github.io/VitalSigns-water/)  | [MOW Post](http://blog.cartodb.com/map-of-the-week-pulse-plotting/)
-[Highcharts](http://www.highcharts.com/) | Weather Data | [Aurelia's Block](http://bl.ocks.org/auremoser/96b70f6dbcc724ecc973) | [Tutorial](https://stackedit.io/viewer#!provider=gist&gistId=e2d4f0f0b71f258f3ac9&filename=beirut.md)
+[Highcharts](http://www.highcharts.com/) | Temp Data | [Aurelia's Block](http://bl.ocks.org/auremoser/96b70f6dbcc724ecc973) | [Tutorial](https://stackedit.io/viewer#!provider=gist&gistId=e2d4f0f0b71f258f3ac9&filename=beirut.md)
 [Plot.ly](https://plot.ly/) | Earthquake Data  | [Plotly Tutorial](https://plot.ly/ipython-notebooks/cartodb/) | [CartoDB Blog](http://blog.cartodb.com/plotly/)
 
 ### Resources
