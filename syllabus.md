@@ -443,7 +443,7 @@ This week continues our visualization series, we'll be exploring data sets for t
 **Other interactives**:
 
 * Reuters Graphics, [_Journalism Deaths_](http://graphics.thomsonreuters.com/14/journalist-deaths/index.html).
-* The Guardian, [_Watch how the measles outbreak spread..._](http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated).
+* The Guardian, [_Watch how the measles outbreak spread_](http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated).
 
 #### [Francis Tseng](http://frnsys.com/), NY Times, Coral Project, NEW Inc.
 
@@ -467,7 +467,9 @@ He's worked on interactive projects like:
 * LaFleur, J., [_Guide to bulletproofing your data_](https://github.com/propublica/guides/blob/master/data-bulletproofing.md).
 
 #### PRACTICE
-[C3.JS](http://c3js.org/) is a reusable chart library based on D3. Take a look at [the code for this Timeseries Chart](http://c3js.org/samples/timeseries.html) and think about how you could modify it to accommodate data of your choice.
+Check out [RAW](http://app.rawgraphs.io/) and play with some of their sample datasets, try to input your own .csv and experiment with what types of visualizations you can make before committing to a library.
+
+If you have more time, try to work with a JS library example, in a template. For example, [C3.JS](http://c3js.org/) is a reusable chart library based on D3. Take a look at [the code for this Timeseries Chart](http://c3js.org/samples/timeseries.html) and think about how you could modify it to accommodate data of your choice.
 
 Try to do that and integrate your practice into the assignment below (add it to you bl.ocks account if you can!).
 
@@ -478,7 +480,7 @@ Here is [an example using C3.JS for a time-series line chart](http://bl.ocks.org
 2. Think about the narrative that you might build around it. 
 3. Write a pitch (< 3 ¶s) explaining your story and linking to the data. 
 4. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
-5. Use your practice exercise to defend your pitch with a prototype.
+5. Use your practice exercise to defend your pitch with a prototype, or test your data with [RAW](http://app.rawgraphs.io/).
 
 ## 10/19/17
 
