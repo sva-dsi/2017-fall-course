@@ -31,7 +31,7 @@ Find this document here:
 ### Time-Series Basics
 #### What is time-series?
 
-[Time Series Data](https://en.wikipedia.org/wiki/Time_series) is a series of data points ordered in time, or data that has a timestamp associated with it (this can include date and time information). Often, time-series data is most interesting for journalism, because it illustrates change, and difference from precedent.
+[Time Series Data](https://en.wikipedia.org/wiki/Time_series) is a series of data points ordered in time, or data that has a timestamp associated with it (this can include date and time information). Often, time-series data is interesting because it illustrates change, and difference from precedent.
 
 
 #### Types of Visualizations
