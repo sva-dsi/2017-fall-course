@@ -94,7 +94,7 @@ You can tell the format of a file by its extension, or the letters that follow t
 
 #### [Types](https://en.wikipedia.org/wiki/Data_type)
 
-* [Dates](https://codex.wordpress.org/Formatting_Date_and_Time) | "Friday, September 24th, 2004" or 
+* [Dates](https://codex.wordpress.org/Formatting_Date_and_Time) | "Friday, September 24th, 2004"
 * [Integers](https://en.wikipedia.org/wiki/Integer_(computer_science))/Numbers (int/num) | "1"
 * [Booleans](https://en.wikipedia.org/wiki/Boolean_data_type) | "TRUE"
 * [Characters](https://en.wikipedia.org/wiki/Character_(computing)) (char) | "a"
