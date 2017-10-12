@@ -205,7 +205,7 @@ Github Repo Here: <https://github.com/auremoser/graphitiTime>
 #### Case Study 2: Task Calendar
 ![pirate](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/time/pirate.jpg)
 
-Project Tracker: <auremoser.github.io/pirateplotr/>
+Project Tracker: <https://github.com/auremoser/pirateplotr>
 
 This project made project management data into a Gantt Chart using D3.js, a kind of timeseries graph updated every few minutes, using Google Sheets as a data store.
 
