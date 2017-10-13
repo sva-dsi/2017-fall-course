@@ -457,6 +457,7 @@ He's worked on interactive projects like:
 * [_ML 101_](https://github.com/frnsys/ml101)
 * [_Speculating Futures Syllabus_](https://speculatingfutures.club/)
 * [_The Founder_](http://thefounder.biz/)
+* [_Cybernetics Club_](http://cybernetics.group/)
 
 #### READINGS:
 * Today's Slides: 
