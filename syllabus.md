@@ -436,6 +436,8 @@ This week continues our visualization series, we'll be exploring data sets for t
 
 ![The Counted](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/counted.png)
 
+[Recent article on the Counted data shared by Stephen](https://gist.github.com/acercas/2f6b97695bc1990d97ac7e5f1eb44a6f)
+
 **Interactive to Inspire**: 
 
 * The Guardian, [_The Counted_](https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings).
