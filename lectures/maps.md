@@ -8,7 +8,7 @@ ProPublica, [_Losing Ground_](http://projects.propublica.org/louisiana/).
 
 Find this document here:
 
-* Gist: <http://tinyurl.com/svadsi-maps>
+* Gist: <http://tinyurl.com/svadsi-carto>
 
 ### Outline
 
@@ -43,22 +43,22 @@ Find this document here:
 
 #### YOU ARE HERE.
 
-![Parsons](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/map.jpg)
+![SVA](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/sva-map.png)
 
 Where are you? If I gave you directions here, you could say you were at
 
-> 63 5th Ave, New York, NY 10003
+> 132 W 21st Street, New York
 
 But if I wanted to describe the location as a point on a map, I might describe the same location using latitude and longitude:
 
-> 40° 73' 53.04", -73° 99' 41.35"
+> 40° 44' 31.452'' N, 73° 59' 43.2132'' W
 
-It reads as "40 degrees, 73 minutes and 53.04 seconds, negative 73 degrees, 99 minutes and 41.35 seconds"
+It reads as "40 degrees, 44 minutes and 31.42 seconds, negative 73 degrees, 59 minutes and 43.21 seconds"
 
 
 We describe locations with a [spatiotemporal notation](https://en.wikipedia.org/wiki/Longitude_(book)), it's also somewhat obscure. So let's describe the same place using longitude and longitude but using decimal degrees instead of minutes and seconds. There are a number of conversion tools available online to do this:
 
-> 40.735304, -73.994135
+> 40.742070, -73.995337
 
 ### Types + Topics
 
