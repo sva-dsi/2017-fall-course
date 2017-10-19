@@ -598,7 +598,7 @@ Type | Title | Link/Demo | BlogPost
 4. [CartoDB APIs](https://carto.com/docs/)
 5. [Community help on StackExchange](http://gis.stackexchange.com/questions/tagged/cartodb)
 6. [CartoDB Map Gallery](https://carto.com/gallery/)
-7. [CartoDB Bootstrap Template by Chris Wong](https://github.com/chriswhong/cartodb-github-template)
+7. [CartoDB Bootstrap Template by Chris Whong](https://github.com/chriswhong/cartodb-github-template)
 8. [Listing of Map Data Formats](http://gisgeography.com/gis-formats/)
 
 #### Visualization
