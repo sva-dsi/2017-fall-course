@@ -527,7 +527,7 @@ He's worked on interactive projects like:
 
 **Check these out**:
 
-* Hurt, A. et al., [_Disputed Territories_](https://source.opennews.org/articles/meet-disputed-territories-and-ssn-redactor/). [Github](https://github.com/alykat/map-disputes).
+* Hurt, A. et al., [_Disputed Territories_](https://source.opennews.org/articles/meet-disputed-territories-and-ssn-redactor/). [Github](https://github.com/alykat/map-disputes | [Archived Version](https://web.archive.org/web/20161107040016/http://opennews.kzhu.io/map-disputes/)).
 * [Radical Cartography](http://radicalcartography.net/).
 
 #### PRACTICE
