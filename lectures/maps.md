@@ -525,7 +525,7 @@ In the [class repo](https://github.com/sva-dsi/2017-fall-course/blob/master/prac
 
 If you run this locally, you'll get a map that looks like this:
 
-![Blackoug Map](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/img/blackout-map.png)
+![Blackout Map](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/blackout-map.png)
 
 Here's an example of [BikeData from Madrid](http://bl.ocks.org/auremoser/6e984c0ff866e04686c8) modified with SQL and hosted on Github.
 
@@ -553,8 +553,6 @@ Outside of the CartoJS library, we have others to help you build dynamic narrati
 4. [Ramadan Tweets w/OdysseyJS](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/)
 5. [Alcatraz Escapees](http://www.washingtonpost.com/news/morning-mix/wp/2014/12/15/the-alcatraz-escapees-could-have-survived-and-this-interactive-model-proves-it/?tid=hp_mm&hpid=z3)
 6. [Lynching and the Press](http://yale.cartodb.com/u/mdweaver/viz/ffd06ece-8545-11e4-a898-0e018d66dc29/embed_map)
-
-![Twitter Import](http://i.imgur.com/d3GSSYQ.gif)
 
 **Maps that tell Stories** - **[Odyssey JS](http://cartodb.github.io/odyssey.js/index.html)**
 
