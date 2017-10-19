@@ -34,8 +34,8 @@ Find this document here:
 		+ R
 5. Building A Narrative
 	+ Case Study 1: [NYC Building Choropleth Map](https://auremoser.carto.com/builder/6ed6133a-8f5a-11e6-b82e-0ecd1babdde5/embed)
-	+ Case Study 2: [NYC Bikelane Category Map](http://cdb.io/1J4MvVW)
-	+ Cast Study 3: [Multivariate Data Map App](http://bikestorming.com/)
+	+ Case Study 2: [NYC Bikelane Category Map](https://auremoser.carto.com/builder/491805b6-95c8-11e7-82c9-0e13ef3858cc/embed)
+	+ Cast Study 3: [Multivariate Data Map App](https://twitter.com/bikestorming)
 	+ Tell Time/Stories: Odyssey + Torque
 	+ Partner Graphics: Graphs + Charts
 	+ Bl.ocks for Mapping display
@@ -351,7 +351,6 @@ You can read more about the [CartoDB APIs and JS Library here](https://carto.com
 + Comes in multiple formats ([supported formats for Carto](https://carto.com/docs/carto-editor/datasets/#supported-geospatial-data-formats))
 + Sources uncertain
 + Contains errors
-+ etc.
 
 **Geocoding + SQL/PostGIS**
 The most basic SQL statement is:
