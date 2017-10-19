@@ -239,8 +239,6 @@ You can also store your data in Github, or in another service that makes it web 
 
 ### Mapping Tools
 
-![Logos](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/logos.jpg)
-
 There are loads of ways to approach a map here are a few approaches to mapping the same dataset.
 
 #### Map Making Exercise
@@ -397,15 +395,15 @@ Notes:
 
 There are many types of geospatial visualizations:
 
-+ **Simple** -- most basic visualization
-+ **Cluster** -- counts number of points within a certain binned region
-+ **Choropleth** -- makes a histogram of your data and gives bins different colors depending on the color ramp chosen
-+ **Category** -- color data based on unique category (works best for a handful of unique types)
-+ **Bubble** -- size markers based on column values
-+ **Intensity** -- colors by density
-+ **Density** -- data aggregated by number of points within a hexagon
-+ **Torque** -- temporal visualization of data
-+ **Heat** -- more fluid map of concentration; emphasis on far over near-view
++ `Simple` -- most basic visualization
++ `Cluster` -- counts number of points within a certain binned region
++ `Choropleth` -- makes a histogram of your data and gives bins different colors depending on the color ramp
++ `Category` -- color data based on unique category (works best for a handful of unique types)
++ `Bubble` -- size markers based on column values
++ `Intensity` -- colors by density
++ `Density` -- data aggregated by number of points within a hexagon
++ `Torque` -- temporal visualization of data
++ `Heat` -- more fluid map of concentration; emphasis on far over near-view
 
 In Carto you can style "by value" which means it uses your data to drive the color/design of your map (ie. a Choropleth visualization would pull a numerical column from your dataset and allow you to style points/lines/polygons accordingly).
 
