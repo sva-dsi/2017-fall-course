@@ -116,7 +116,7 @@ Source: [Geogia County Car Crash Counts](http://bl.ocks.org/auremoser/6236a61e53
 
 **Sources**
 
-* [**CartoDB**](cartodb.com): light open source library and graphical user interface application for hosting and visualizing geospatial data
+* [**Carto**](https://carto.com/): light open source library and graphical user interface application for hosting and visualizing geospatial data
 * [**ChartJS**](http://www.chartjs.org/): light library for creating charts and graphs
 * [**GDELT**](http://gdeltproject.org/): the global database of events languages and tones
 
@@ -140,7 +140,7 @@ Map layers that populate on top of your basemap
 
 #### 3. Javascript/HTML/CSS for rendering on the web
 
-With these languages you can publish your map with the basetiles loaded and your data layers appropriately geocoded; with javascript you can also add to the interactivity of your map, revealing metadata in the tooltips
+With these languages you can publish your map with the basetiles loaded and your data layers appropriately geocoded; with javascript you can also add to the interactivity of your map, revealing metadata in the tooltips.
 
 ### Mapping Data
 #### Formats + Free Sources
@@ -158,7 +158,7 @@ You can get geospatial data for your feature layers in lots of places, here's a 
 
 #### Collecting + Sync Tables
 
-We'll be collecting data from multiple sources. Most of which are available in [the repository](https://github.com/auremoser/gdi-webmap/) where our data will be stored. In this case, point (library), lines (bikelanes), and polygons (building footprints).
+We'll be collecting data from multiple sources. Most of which are available in [the repository](https://github.com/sva-dsi/2017-fall-course/tree/master/practice/data) where our data will be stored. In this case, point (library), lines (bikelanes), and polygons (building footprints).
 
 **BIKELANES**
 
@@ -335,10 +335,7 @@ GeoJSON is a file format that is easily digestable by JavaScript. If you have a 
 
 We'll use CartoDB for the subsequent exercises because of it's flexibility, support for SQL and JS, and backend handling for data management and geocoding.
 
-![int-data](https://raw.githubusercontent.com/auremoser/nicar-test/master/img/int-data.jpg)
-![int-upload](https://raw.githubusercontent.com/auremoser/nicar-test/master/img/int-upload.jpg)
-![int-vis](https://raw.githubusercontent.com/auremoser/nicar-test/master/img/int-viz.jpg)
-![int-share](https://raw.githubusercontent.com/auremoser/nicar-test/master/img/int-share.jpg)
+![carto-gif](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/carto.gif)
 
 #### APIs / JS Libs
 You can read more about the [CartoDB APIs and JS Library here](https://carto.com/docs/)
@@ -467,33 +464,33 @@ The data folder includes some point (libraries), line (bikelanes), and polygons 
 
 Let's try the Building Footprint Data, making something like [this](http://cdb.io/1Nvepxt).
 
-* Navigate to your Data Library in CartoDB
+* Navigate to your Data Library in Carto
 * Search for 'PLUTO' and select the NYC data; or Use the NYC PLUTO data Downloader linked above
 * "Connect Dataset"
 * "Create Map"
 * Adjust aspects in the GUI
 
-![Pluto Map](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/pluto-M.jpg)
+![Pluto Map](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/pluto-map.png)
 
 **EXPLORE THE DATA**
 
-![Pluto Data](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/pluto-D.jpg)
+![Pluto Data](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/pluto-data.png)
 
 **CHANGE YOUR BASEMAP**
 
-![Pluto Basemap](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/pluto-basemap.jpg)
+![Pluto Basemap](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/pluto-basemap.png)
 
-**MAKE A CHOROPLETH IN THE WIZARD**
+**MAKE A CHOROPLETH IN THE BUILDER**
 
-![Pluto Editor](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/pluto-wizard.jpg)
+![Pluto Editor](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/pluto-choropleth.png)
 
 **STYLE IT WITH CARTOCSS**
 
-![Pluto Data](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/pluto-css.jpg)
+![Pluto Data](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/pluto-css.png)
 
 **CREATE TOOLTIPS AND LEGENDS**
 
-![Pluto Legend](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/pluto-legend.jpg)
+![Pluto Legend](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/pluto-legend.png)
 
 #### Case Study 2: [NYC Bikelane Category Map](https://auremoser.carto.com/builder/491805b6-95c8-11e7-82c9-0e13ef3858cc/embed)
 
@@ -525,7 +522,7 @@ Let's try the Bikelane Data, making something like [this](https://auremoser.cart
 
 You can publish your map as is via the "Share" button in the interface, but if you would like to build a more custom version you can use the JS libraries and APIs mentioned above, and use CartoDB as your Data Store.
 
-In the [class repo](https://github.com/auremoser/web-coding/tree/master/_practice/maps), you'll find a template for making your map as a site online:
+In the [class repo](https://github.com/sva-dsi/2017-fall-course/blob/master/practice/maps/), you'll find a template for making your map as a site online:
 
 * [index.html](https://github.com/sva-dsi/2017-fall-course/blob/master/practice/maps/index.html): setting up your map div and canvas
 * [main.js](https://github.com/sva-dsi/2017-fall-course/blob/master/practice/maps/main.js): pulling in your basemap, cartodb feature layers and other details
