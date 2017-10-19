@@ -514,7 +514,7 @@ He's worked on interactive projects like:
 
 #### READINGS
 * Today's Slides: 
-	* [Signup link for Carto](https://carto.com/signup?plan=academy)
+	* [Signup link for Carto](https://carto.com/signup?plan=academy) + [Github Student Pack](https://education.github.com/pack)
 	* [Mapping Basics](https://github.com/sva-dsi/2017-fall-course/blob/master/lectures/maps.md)
 	* [Andy's slides](https://gist.github.com/andy-esch/c67d93402cc2d3e6c458e979fa4e9b00)
 	* [Web JS - Class 2](https://auremoser.github.io/web-intro-js/class2.html#/)
