@@ -424,21 +424,21 @@ You have myriad customization options in the in-browser builder:
 * `pop-up` - create hovers, tooltips with information from your datatables
 * `legends` - create keys for your map
 
-##### Styles
+**Styles**
 
-* **Fill:** change the size, color, and opacity of all markers
-* **Stroke:** change the width, color, and opacity of every marker's border
-* **Blending:** change the color of markers when they overlap
-* **Labels:** Text appearing by a marker (can be from columns)
+* `Fill:` change the size, color, and opacity of all markers
+* `Stroke:` change the width, color, and opacity of every marker's border
+* `Blending:` change the color of markers when they overlap
+* `Labels:` Text appearing by a marker (can be from columns)
 
-##### Infowindows/hovers
+**Infowindows**
 
 ![Infowindow options](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/popup.png)
 
 + Select which column data appear in infowindow by toggling column on
 + Customize further by selecting HTML-view
 
-##### Basemaps
+**Basemaps**
 
 ![Basemap options](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/basemap.png)
 
@@ -446,13 +446,13 @@ Check out the base [CartoDB Basemaps from Stamen](https://github.com/stamen/cart
 
 #### Mapping in Code
 
-##### Python
+`Python`
 Use the [CartoDB Python module](https://github.com/Vizzuality/cartodb-python) to create and update tables; check out [Andy's IPythonNB demos](http://nbviewer.ipython.org/gist/ohasselblad/b2475c95a23c5e070264).
 
-##### Node
+`Node`
 Use the [CartoDB Uploader](https://www.npmjs.com/package/cartodb-uploader) package available in NPM for working in Node.js
 
-##### R
+`R`
 Use Kyle Walker's [R2CartoDB](https://rpubs.com/walkerke/r2cartodb) project to create and update tables in R.
 
 ### Building a Narrative
