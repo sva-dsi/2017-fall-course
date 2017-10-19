@@ -564,8 +564,6 @@ Outside of the CartoJS library, we have others to help you build dynamic narrati
 
 You can use CartoDB's SQL API to query your data and pull it into any charting library of your choosing.
 
-You can easily wire up a chart of pollution data for example, set it as a sync table to update continuously, [check the code here](http://bl.ocks.org/auremoser/6c51769ef05b812690fc).
-
 ![chart](https://raw.githubusercontent.com/auremoser/hasadna/master/img/7-chart.jpg)
 
 Learn more about it [here](https://carto.com/docs/tips-and-tricks/charts-and-graphs/)!
