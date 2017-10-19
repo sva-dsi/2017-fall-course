@@ -529,7 +529,7 @@ In the [class repo](https://github.com/sva-dsi/2017-fall-course/blob/master/prac
 
 If you run this locally, you'll get a map that looks like this:
 
-![Bike Map](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/bike.jpg)
+![Blackoug Map](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/img/blackout-map.png)
 
 Here's an example of [BikeData from Madrid](http://bl.ocks.org/auremoser/6e984c0ff866e04686c8) modified with SQL and hosted on Github.
 
