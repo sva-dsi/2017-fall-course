@@ -502,7 +502,7 @@ This week we'll explore geospatial data and mapping visualizations. We'll consid
 
 #### [Andy Eschbacher](https://carto.com/blog/introducing-andy/), Carto
 
-Andy is a physicist, educator, and programmer at [Carto](https://carto.com/). He'll give a talk on his work as a map scientist and cool open source technologies to build thoughtful, creative, and clever map tools for the masses.
+Andy is a physicist, educator, and programmer at [Carto](https://carto.com/). He'll give a talk on his work as a map scientist and cool open source technologies to build thoughtful, creative, and clever map tools for the masses. He lives in the Upper West Side with his wife Corinne and 3.5 month old son Cody.
 
 He's worked on interactive projects like:
 
