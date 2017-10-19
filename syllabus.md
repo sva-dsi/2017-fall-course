@@ -522,7 +522,7 @@ He's worked on interactive projects like:
 * Larson, J., [_Anatomy of a News Map_](https://www.propublica.org/nerds/item/anatomy-of-a-news-map).
 * Madrigal, A., [_How Google Builds Its Maps – and What It Means for the Future of Everything_](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/) The Atlantic (September 5, 2012).
 * Tolochko, R., [_Introduction to the Geo-command line_](https://developmentseed.org/blog/2015/08/27/geo-command-line-introduction/).
-* Lee, J.K., [_Broc-cli: geo_ : command line tutorial](http://joeyklee.github.io/broc-cli-geo/?id=qo2sgp8z3v9igpofprwly2e29)
+* Lee, J.K., [_Broc-cli: geo_ : command line tutorial](http://joeyklee.github.io/broc-cli-geo/?id=qo2sgp8z3v9igpofprwly2e29).
 * Wiseman, A., [_When maps lie_](http://www.citylab.com/design/2015/06/when-maps-lie/396761/).
 
 **Check these out**:
