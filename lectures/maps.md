@@ -377,9 +377,9 @@ If you want to run SQL commands and see your map update, make sure to `SELECT` t
 
 **Sync Tables**
 
-![Sync Tables](https://raw.githubusercontent.com/auremoser/140realtime/master/img/sync.png)
+![Sync Tables](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/sync.png)
 
-The Editor is especially setup to process realtime data updates via [sync tables](https://carto.com/blog/synced-tables-create-real-time-maps-from-data-anywhere/).
+The Builder is especially setup to process realtime data updates via [sync tables](https://carto.com/blog/synced-tables-create-real-time-maps-from-data-anywhere/).
 
 You can import data that lives online via a URL, and set it to pull and update your map at regular intervals.
 
@@ -391,22 +391,11 @@ Notes:
 	* country column, a latitude column and a separate longitude column
 	* a column of IP addresses
 * to edit sync tables you need to be disconnected from the datasource, so during syncing, you can use SQL to manipulate the dataset on the fly
-* you can create sync tables in both the Editor and via the Import API
+* you can create sync tables in both the Builder and via the Import API
 
 #### Customizing UI + CartoCSS
 
-![Basemaps](https://raw.githubusercontent.com/auremoser/140realtime/master/img/basemaps.jpg)
-
-You have myriad customization options in the in-browser editor:
-
-* `sql` - run sql and postgis functions across your data
-* `wizard` - adjust the type, colors and fills in your map
-* `infowindow` - create hovers, tooltips with information from your datatables
-* `css` - customize the css and style of your map outside the wizard
-* `legends` - create keys for your map
-* `filters` - filter the data without sql
-
-Likewise, many types of visualizations:
+There are many types of geospatial visualizations:
 
 + **Simple** -- most basic visualization
 + **Cluster** -- counts number of points within a certain binned region
@@ -418,30 +407,40 @@ Likewise, many types of visualizations:
 + **Torque** -- temporal visualization of data
 + **Heat** -- more fluid map of concentration; emphasis on far over near-view
 
+In Carto you can style "by value" which means it uses your data to drive the color/design of your map (ie. a Choropleth visualization would pull a numerical column from your dataset and allow you to style points/lines/polygons accordingly).
+
 ### Creating Custom Maps
 
-![Pluto Editor](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/pluto-wizard.jpg)
+![builder](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/data.png)
 
-#### Mapping in the Editor
-The Editor GUI allows you to select your visualization "type" and customize color palettes, design details, and otherwise set the tone for your map. It also gives you ways to run sql and set your cartocss in the browser before you input those things as templates in your code.
+#### Mapping in the Builder
+The Builder GUI allows you to select your visualization "type" and customize color palettes, design details, and otherwise set the tone for your map. It also gives you ways to run sql and set your cartocss in the browser before you input those things as templates in your code.
+
+You have myriad customization options in the in-browser builder:
+
+* `data/sql` - view histograms of datarun sql and postgis functions across your data
+* `analysis` - add complex macros to analyze your data set and create clusters, collect cross-layer stats
+* `style/css` - adjust the type, colors and fills in your map
+* `pop-up` - create hovers, tooltips with information from your datatables
+* `legends` - create keys for your map
 
 ##### Styles
 
-* **Marker Fill:** change the size, color, and opacity of all markers
-* **Marker Stroke:** change the width, color, and opacity of every marker's border
-* **Composite Operation:** change the color of markers when they overlap
-* **Label Text:** Text appearing by a marker (can be from columns)
+* **Fill:** change the size, color, and opacity of all markers
+* **Stroke:** change the width, color, and opacity of every marker's border
+* **Blending:** change the color of markers when they overlap
+* **Labels:** Text appearing by a marker (can be from columns)
 
 ##### Infowindows/hovers
 
-![Infowindow options](https://raw.githubusercontent.com/auremoser/gdi-webmap/master/img/pluto-info.jpg)
+![Infowindow options](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/popup.png)
 
 + Select which column data appear in infowindow by toggling column on
 + Customize further by selecting HTML-view
 
 ##### Basemaps
 
-![Basemap options](https://raw.githubusercontent.com/ohasselblad/workshops/gh-pages/img/alaska/basemap_options.png)
+![Basemap options](https://raw.githubusercontent.com/sva-dsi/2017-fall-course/master/imgs/basemap.png)
 
 Check out the base [CartoDB Basemaps from Stamen](https://github.com/stamen/cartodb-basemaps).
 
