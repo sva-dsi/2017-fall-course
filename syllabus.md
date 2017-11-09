@@ -650,8 +650,14 @@ Choosing a way to display your data is a non-trivial operation, and using the pa
 #### READINGS
 * Today's Slides:
 	* [SVG Primer](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
-	* [Scroll Demo](http://vallandingham.me/scroll_demo/) + [Tutorial](http://vallandingham.me/scroller.html)
+		* [W3 Schools SVG example](https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_circle)
+		* [SVG Exercise](http://bl.ocks.org/auremoser/6a5a334418e834ec2ba9503553444342)
+		* [Tutorial for SVG in D3](https://www.dashingd3js.com/adding-an-svg-element)
+		* [More advanced SVG Exercise](https://cmda-fe3.github.io/course-17-18/class-1-play/)
 	* [Web JS - 3](https://auremoser.github.io/web-intro-js/class3.html#/)
+		* [Meteorites Sample Map](http://bl.ocks.org/auremoser/raw/30c03aaebcffa0c59af9/)
+		* [Scroll Demo](http://vallandingham.me/scroll_demo/) + [Tutorial](http://vallandingham.me/scroller.html)
+		* [Sign up for Lab Time](https://docs.google.com/spreadsheets/d/1_G8cxv8HRulA0Mgk_kn8NC8EhaqxwQrBZaXhODG4zEw/edit#gid=0)
 
 * Oetting, J., [_Choosing the Right Chart_](http://blog.hubspot.com/marketing/data-visualization-choosing-chart).
 * Salkever, A., [_How to Choose the Right Visualization_](http://blog.import.io/post/how-to-choose-the-right-visualization-for-your-data).
