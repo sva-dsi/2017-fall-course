@@ -655,6 +655,7 @@ Choosing a way to display your data is a non-trivial operation, and using the pa
 		* [Tutorial for SVG in D3](https://www.dashingd3js.com/adding-an-svg-element)
 		* [More advanced SVG Exercise](https://cmda-fe3.github.io/course-17-18/class-1-play/)
 	* [Web JS - 3](https://auremoser.github.io/web-intro-js/class3.html#/)
+		* [DOM Access Exercise with Jquery](http://bl.ocks.org/auremoser/24668d6f0918436cc01f15619e620a4c)
 		* [Meteorites Sample Map](http://bl.ocks.org/auremoser/raw/30c03aaebcffa0c59af9/)
 		* [Scroll Demo](http://vallandingham.me/scroll_demo/) + [Tutorial](http://vallandingham.me/scroller.html)
 		* [Sign up for Lab Time](https://docs.google.com/spreadsheets/d/1_G8cxv8HRulA0Mgk_kn8NC8EhaqxwQrBZaXhODG4zEw/edit#gid=0)
