@@ -692,7 +692,7 @@ This week we'll talk about creative approaches to building narrative and new met
 
 * Slides for today:
 	* [Web JS - 4](https://auremoser.github.io/web-intro-js/class4.html#/)
-	* [Web D3](https://github.com/sva-dsi/web-d3)
+	* [Web D3](https://sva-dsi.github.io/web-d3/index.html#/)
 	* [Template for final projects](https://github.com/auremoser/test-final/) | [Site](https://github.com/auremoser/test-final/tree/gh-pages)
 	* [Sign up for Lab Time](https://docs.google.com/spreadsheets/d/1_G8cxv8HRulA0Mgk_kn8NC8EhaqxwQrBZaXhODG4zEw/edit#gid=0)
 
