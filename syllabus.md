@@ -691,15 +691,21 @@ This week we'll talk about creative approaches to building narrative and new met
 #### READINGS
 
 * Slides for today:
-	* [JS Class 4](https://auremoser.github.io/web-intro-js/class4.html#/)
+	* [Web JS - 4](https://auremoser.github.io/web-intro-js/class4.html#/)
+	* [Web D3](https://github.com/sva-dsi/web-d3)
 	* [Template for final projects](https://github.com/auremoser/test-final/) | [Site](https://github.com/auremoser/test-final/tree/gh-pages)
-* Honan, M., [_Inside the buzz-fueled media startups battling for your attention_](http://www.wired.com/2014/12/new-media-2/).
-* Bajak, A., [_How to learn responsive web design by coding your own news article_](http://www.storybench.org/code-simple-responsive-webpage-standalone-article/).
-* Keller, M., [_Comics: Terms of Service_](http://projects.aljazeera.com/2014/terms-of-service/#1).
-	* Using [_Pulp: An AJAM Project_](https://github.com/ajam/pulp).
-* [Scroll Demo](http://vallandingham.me/scroll_demo/) + [Tutorial](http://vallandingham.me/scroller.html)
-* Case, N. + Hart, V., [_Parable of the Polygons_](http://ncase.me/polygons/).
-* Stikeleather, J., [_How to tell a story with data_](https://hbr.org/2013/04/how-to-tell-a-story-with-data).
+	* [Sign up for Lab Time](https://docs.google.com/spreadsheets/d/1_G8cxv8HRulA0Mgk_kn8NC8EhaqxwQrBZaXhODG4zEw/edit#gid=0)
+
+* Optional readings:
+	* Honan, M., [_Inside the buzz-fueled media startups battling for your attention_](http://www.wired.com/2014/12/new-media-2/).
+	* Bajak, A., [_How to learn responsive web design by coding your own news article_](http://www.storybench.org/code-simple-responsive-webpage-standalone-article/).
+
+* Alt-formats for narrative:
+	* Keller, M., [_Comics: Terms of Service_](http://projects.aljazeera.com/2014/terms-of-service/#1).
+		* Using [_Pulp: An AJAM Project_](https://github.com/ajam/pulp).
+	* [Scroll Demo](http://vallandingham.me/scroll_demo/) + [Tutorial](http://vallandingham.me/scroller.html)
+	* Case, N. + Hart, V., [_Parable of the Polygons_](http://ncase.me/polygons/).
+	* Stikeleather, J., [_How to tell a story with data_](https://hbr.org/2013/04/how-to-tell-a-story-with-data).
 
 #### PRACTICE
 Think about where you would like to publish your project and in what format. Will it be a stand-alone site with some text, a text-dense narrative with embedded graphs, a larger scroll-pages multimedia piece with images and video embeds to compliment? 
@@ -714,7 +720,7 @@ Here are some resources to help you get it on the web.
 * [Github pages templates for sites](https://pages.github.com/)
 * [Creating project pages on Github pages](https://help.github.com/articles/creating-project-pages-manually/)
 
-Here is [an example of an interactive time series visualization](http://auremoser.github.io/graphitiTime/) of Graffiti cleanup rates (taken from 311 data). Here is [the code and readme](https://github.com/auremoser/graphitiTime/) explaining how this was made. This will be the format of your final projects (unless you choose a more creative way of hosting it). All of your code will be submitted on github with at least a link to the live demo in the `README.md` of your repository.
+Here is [an example of an interactive time series visualization](http://auremoser.github.io/graphitiTime/) of Graffiti cleanup rates (taken from 311 data). Here is [the code and readme](https://github.com/auremoser/graphitiTime/) explaining how this was made. This will be the format of your final projects, a small github pages site with graphics you designed, and a repo collecting all your materials (your sketches, links to your gists, your code and your resulting gh-pages site). All of your code will be submitted on github with at least a link to the live demo in the `README.md` of your repository.
 
 ### 11/23/17
 #### UNDERSTANDING IMPACT + ADDRESSING BIAS
@@ -736,7 +742,6 @@ This week we'll go over how to process reactions to your work, and how to bullet
 	* [Mozilla's Open Data Training Curriculum](https://github.com/mozillascience/open-data-training)
 	* [Web D3](https://github.com/sva-dsi/web-d3)
 	* [DOM Access](http://bl.ocks.org/auremoser/24668d6f0918436cc01f15619e620a4c)
-	* [Signup for Lab time](https://docs.google.com/spreadsheets/d/1DsB9dtpzrhxgqqYkqwYgXspwBpFMQL3DkkhoAWHfJDQ/edit?usp=sharing)
 * Lab Time: 
 	* [Self-Paced Intro to JQuery](http://www.teaching-materials.org/jquery-selfpaced/)
 	* [Code Academy's Intro to JS Course](https://www.codecademy.com/learn/javascript)
@@ -778,7 +783,7 @@ Meet with your project partners to discuss how you plan to wrap-up your projects
 		* [DOM Access Exercise](http://bl.ocks.org/auremoser/24668d6f0918436cc01f15619e620a4c)
 	* [Intro to Graphics](http://www.teaching-materials.org/graphics/)
 		* [SVG Exercise](http://bl.ocks.org/auremoser/6a5a334418e834ec2ba9503553444342)
-	* [Signup for Lab time](https://docs.google.com/spreadsheets/d/1DsB9dtpzrhxgqqYkqwYgXspwBpFMQL3DkkhoAWHfJDQ/edit?usp=sharing)
+	* [Sign up for Lab Time](https://docs.google.com/spreadsheets/d/1_G8cxv8HRulA0Mgk_kn8NC8EhaqxwQrBZaXhODG4zEw/edit#gid=0)
 
 * Ford, P., [_10 Timeframes_](http://contentsmagazine.com/articles/10-timeframes/).
 * Carr, D., [_Magazine writing on the web, for film_](http://www.nytimes.com/2013/08/12/business/media/magazine-writing-on-the-web-for-film.html?pagewanted=all&_r=0).
