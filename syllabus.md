@@ -779,7 +779,7 @@ Meet with your project partners to discuss how you plan to wrap-up your projects
 
 #### READINGS
 * Slides: 
-	* [Web D3](https://github.com/sva-dsi/web-d3)
+	* [Web D3](https://sva-dsi.github.io/web-d3/index.html)
 		* [DOM Access Exercise](http://bl.ocks.org/auremoser/24668d6f0918436cc01f15619e620a4c)
 	* [Intro to Graphics](http://www.teaching-materials.org/graphics/)
 		* [SVG Exercise](http://bl.ocks.org/auremoser/6a5a334418e834ec2ba9503553444342)
@@ -788,7 +788,6 @@ Meet with your project partners to discuss how you plan to wrap-up your projects
 * Ford, P., [_10 Timeframes_](http://contentsmagazine.com/articles/10-timeframes/).
 * Carr, D., [_Magazine writing on the web, for film_](http://www.nytimes.com/2013/08/12/business/media/magazine-writing-on-the-web-for-film.html?pagewanted=all&_r=0).
 * Haile, T., [_What you think you know about the web is wrong_](http://time.com/12933/what-you-think-you-know-about-the-web-is-wrong/).
-* Klein, E. et al., [_Mantra: "We'll always be a work in progress"_](http://www.vox.com/2014/3/30/5555690/welcome-to-vox).
 * Spann, J., [_The age of disinformation_](https://medium.com/back-of-the-napkin/the-age-of-disinformation-98d55837d7d9).
 * Tow Center, [_Anatomy of a Robot Journalist_](http://towcenter.org/the-anatomy-of-a-robot-journalist/).
 
