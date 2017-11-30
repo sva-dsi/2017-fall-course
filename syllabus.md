@@ -765,7 +765,7 @@ This week we'll go over how to process reactions to your work, and how to bullet
 Continue with last week's assignment, work on publishing your project on github, posting the interactive on `gh-pages`, and explaining your process, sources, and reasoning in your README.md.
 
 ## 11/30/17
-#### THE FUTURE OF MEDIA + FINAL PROJECTS
+#### THE FUTURE OF MEDIA MAKING + FINAL PROJECTS
 
 > "I realize the instant communication platforms we enjoy now do have some negatives that are troubling." ~ J. Spann
 
@@ -795,20 +795,23 @@ Meet with your project partners to discuss how you plan to wrap-up your projects
 **OPTIONAL READINGS**
 
 * Anderson, C., [_How to give a killer presentation_](https://hbr.org/2013/06/how-to-give-a-killer-presentation/ar/1).
-* Rosling, H., [TED talks](http://www.ted.com/speakers/hans_rosling.html).
+* Rosling, H., [_TED talk salad_](http://www.ted.com/speakers/hans_rosling.html).
 
 
 #### ASSIGNMENT
 Continue with working on your final projects, you can make something from [this template for example](https://auremoser.github.io/final-exam/).
  
-* publishing your project and code on github
-* post the interactive demo on `gh-pages`
-* explaining your process, sources, and reasoning in your README.md with the following sections:
+* publish your project and code on Github
+* post the interactive demo on `gh-pages` or use the Github pages setting in your repository settings
+* explain your process, sources, and reasoning in your README.md with the following sections:
 
 	* **Project Title**
 	* **Description**
 	* **Demo Link**
 	* **Project Procedure**: describe your data processing, visualization selection, and analysis post-visualization
+* prep your quick 3-min presentation (details below)
+
+For next class, we will spend the first minutes of 12/7 going over your project pitches, please send me your current assignment/latest project draft **before** class, and prepare a 3 minute presentation of your project, describing why you chose it, what resulted from your efforts and what you would like to do with the project moving forward. This can be an informal overview of what you've worked on and struggled with to this point, low pressure, but still
 	
 ## 12/07/17
 
@@ -830,11 +833,9 @@ Continue with working on your final projects, you can make something from [this 
 #### FINAL PROJECTS
 **DUE**: 12/14/17 9AM, in my inbox. 
 
-Please send the link to your project repository and any supportive materials to my email <amoser2@sva.edu>.
+Please send the link to your project repository and any supportive materials to my email <amoser2@sva.edu> or aurelia@mozillafoundation.org if that one isnt' working.
 
 Final Project Guide: <https://gist.github.com/auremoser/6cdf8d61bb3bcbba7606>
-
-We will spend the first minutes of class going over your project pitches, please send me your current assignment/latest project draft **before** class, and prepare a 3-5 minute presentation of your project, describing why you chose it, what resulted from your efforts and what you would like to do with the project moving forward.
 
 But in general, this project is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 21st); ie. no late grades accepted.
 
