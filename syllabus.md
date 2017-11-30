@@ -849,7 +849,7 @@ This will be a follow-up lab to polish your projects and get extra-help.
 
 There will be no class. Instead, each student will make individual appointments with me to meet over Google Hangouts and discuss his/her project and get help with bugs, issues, or fixing final projects.
 
-An invite will be sent to coordinate this meeting the week prior.
+An invite will be sent to coordinate this meeting the week prior, but you can select a time via this link here: <https://calendly.com/aure/15min/11-29-2017>
 
 This meeting will go over:
 
