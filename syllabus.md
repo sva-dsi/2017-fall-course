@@ -626,7 +626,7 @@ Color and mood are important to visualizations and the general legibility of you
 #### ASSIGNMENT
 Make a few sketches of the data visualizations that might suit your project, take a photo of those sketches and create a style guide or swatch board (with color palette, fonts, layout indications) in a gist. These can build on your prototype time-series, mapping, or graph visualizations from previous weeks, but should reflect your "ideal" layout and not be limited to what you were able to accomplish in previous weeks.
 
-It doesn't have to be as detailed as [this one](https://sunlightfoundation.com/2014/03/12/datavizguide/) but it should have a few main sections:
+It doesn't have to be as detailed as [this one](https://sunlightfoundation.com/2014/03/12/datavizguide/) but it should have a few main sections, and you might take a look at this [Style Guide Guide](http://bradfrost.github.io/style-guide-guide/) for inspiration:
 
 * Colors (hex values chosen)
 * Fonts
