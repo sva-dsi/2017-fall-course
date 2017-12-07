@@ -39,7 +39,7 @@ Being successful in programming or social change initiatives involves producing 
 2. how to bulletproof your data
 3. the merits of certain visualization types
 4. the mechanics of collaboration and github
-5. the basics of building interactive graphics: html/css/js/processing
+5. the basics of building interactive graphics: html/css/js
 6. the value of publishing and self-publishing 
 
 #### GRADE CALCULATION:
@@ -821,9 +821,18 @@ For next class, we will spend the first minutes of 12/7 going over your project 
 
 [Library of Babel Bot](https://libraryofbabel.info/).
 
+* Learnings to date:
+	* [ ] tour of some [learning goals](https://github.com/sva-dsi/2017-fall-course/blob/master/goals.md) for this course
+	* [ ] basics of github for collaborative coding / open source development
+	* [ ] basics of html/css/js
+	* [ ] overview of visualization types: vocab/syntax/languages/frameworks/approaches
+	* [ ] why visualization can be a valuable tool for understanding data
+
 * Learn More:
-	* [Bibliography](https://github.com/sva-dsi/2016-fall-course/blob/master/bibliography.md)
+	* [Bibliography](https://github.com/sva-dsi/2017-fall-course/blob/master/bibliography.md)
+	* Defining development terminology: [Sideways Dictionary](https://sidewaysdictionary.com/)
 	* Designing visual languages: [Tangram Tron](https://mapzen.com/blog/tron-v2-visual-scale/)
+	* Designing visual vocabularies: [Style guide guide](http://bradfrost.github.io/style-guide-guide/)
 	* Dealing with Data: [Missing Datasets](https://github.com/MimiOnuoha/missing-datasets)
 	* Using platforms and media: [Census Americans](https://twitter.com/censusAmericans)
 		* [Cheap Bots Done Quick](http://cheapbotsdonequick.com/)
@@ -832,13 +841,13 @@ For next class, we will spend the first minutes of 12/7 going over your project 
 #### FINAL PROJECTS
 **DUE**: 12/14/17 9AM, in my inbox. 
 
-Please send the link to your project repository and any supportive materials to my email <amoser2@sva.edu> or aurelia@mozillafoundation.org if that one isnt' working.
+Please send the link to your project repository and any supportive materials to my email <amoser2@sva.edu>.
 
 Final Project Guide: <https://gist.github.com/auremoser/6cdf8d61bb3bcbba7606>
 
-But in general, this project is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 21st); ie. no late grades accepted.
+But in general, this project is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 20th); ie. no late grades accepted.
 
-## 12/14/17
+## 12/14/17 + 12/19/17
 
 #### PROJECT CLINIC
 
@@ -846,9 +855,9 @@ But in general, this project is a big deal! The final project is a substantial p
 
 This will be a follow-up lab to polish your projects and get extra-help. 
 
-There will be no class. Instead, each student will make individual appointments with me to meet over Google Hangouts and discuss his/her project and get help with bugs, issues, or fixing final projects.
+There will be no class. Instead, each student will make individual appointments with me to meet over Google Hangouts and discuss his/her project and get help with bugs, issues, or fixing final projects. There is a scheduled class on the 19th of December, and that will be the last day you can make appointments; if you are booked that day, make time with be before that date. 
 
-An invite will be sent to coordinate this meeting the week prior, but you can select a time via this link here: <https://calendly.com/aure/15min/11-29-2017>
+An invite will be sent to coordinate this meeting the week prior, but you can select a time via this link here: <https://calendly.com/aure/15min/12-19-2017>
 
 This meeting will go over:
 
