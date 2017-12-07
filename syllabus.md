@@ -839,7 +839,7 @@ For next class, we will spend the first minutes of 12/7 going over your project 
 
 
 #### FINAL PROJECTS
-**DUE**: 12/14/17 9AM, in my inbox. 
+**DUE**: 12/19/17 9AM, in my inbox. 
 
 Please send the link to your project repository and any supportive materials to my email <amoser2@sva.edu>.
 
